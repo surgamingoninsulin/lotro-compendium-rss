@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>LOTRO Plugins - Maps coordinates &amp; compasses</title>
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Maps coordinates &amp; compasses' category.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:51:56 GMT</lastBuildDate>
     <ttl>180</ttl>
+    <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/maps-coordinates-compasses.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MoorMap (1.66)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=532</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.66&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Maps coordinates &amp;amp; compasses&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-05-10 00:49 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,185,864&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download532"&gt;MoorMap ver 1_66.zip&lt;/a&gt; (14.3 MB)&lt;/p&gt;&lt;p&gt;NOT JUST FOR THE MOORS ANYMORE&lt;br&gt;well actually not for a loooong time now &lt;br&gt; &lt;br&gt;Ever wish you could annotate your own copy of the parchment maps?&lt;br&gt;&lt;br&gt;Want to keep track of where that rare mob spawns? Or where the best places to mine ore are?&lt;br&gt;&lt;br&gt;Want to know quickly where Soldier Pashum is located?&lt;br&gt;&lt;br&gt;Ever wish you could just click on the map to activate your creeps map instead of trying to find the map in your inventory or remember the right hot key you assigned especially after taking a break for a month or two?&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.66&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Maps coordinates &amp;amp; compasses&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-05-10 00:49 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,185,866&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download532"&gt;MoorMap ver 1_66.zip&lt;/a&gt; (14.3 MB)&lt;/p&gt;&lt;p&gt;NOT JUST FOR THE MOORS ANYMORE&lt;br&gt;well actually not for a loooong time now &lt;br&gt; &lt;br&gt;Ever wish you could annotate your own copy of the parchment maps?&lt;br&gt;&lt;br&gt;Want to keep track of where that rare mob spawns? Or where the best places to mine ore are?&lt;br&gt;&lt;br&gt;Want to know quickly where Soldier Pashum is located?&lt;br&gt;&lt;br&gt;Ever wish you could just click on the map to activate your creeps map instead of trying to find the map in your inventory or remember the right hot key you assigned especially after taking a break for a month or two?&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Garan)</author>
       <category>Maps coordinates &amp; compasses</category>
       <guid isPermaLink="false">lotrointerface-532-1-66-1778374145</guid>

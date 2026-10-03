@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>LOTRO Plugins - Other</title>
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Other' category.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:51:56 GMT</lastBuildDate>
     <ttl>180</ttl>
+    <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/other.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LUI (v2.3.1)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1294</link>
@@ -19,7 +20,7 @@
     <item>
       <title>CombatAlert (1.8)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1239</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.8&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; gutter&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-01 15:01 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 18,886&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1239"&gt;CombatAlert-1.8.zip&lt;/a&gt; (910.2 KB)&lt;/p&gt;&lt;p&gt;CombatAlert is a plugin to display a more noticeable visual alert when entering combat along with text alerts to be displayed when entering or leaving combat. Each of these alerts can be toggled on or off and customized through the plugin manager options window.&lt;br&gt;&lt;br&gt;Please note this plugin requires Turbine UI Files:&lt;br&gt;https://www.lotrointerface.com/downloads/info1012TurbineClassesandExamples.html&lt;br&gt;&lt;br&gt;changelog&lt;br&gt;1.8  update for scaling changes introduced in U49.6&lt;br&gt;1.7  bugfixes and improvements for...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.8&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; gutter&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-01 15:01 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 18,887&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1239"&gt;CombatAlert-1.8.zip&lt;/a&gt; (910.2 KB)&lt;/p&gt;&lt;p&gt;CombatAlert is a plugin to display a more noticeable visual alert when entering combat along with text alerts to be displayed when entering or leaving combat. Each of these alerts can be toggled on or off and customized through the plugin manager options window.&lt;br&gt;&lt;br&gt;Please note this plugin requires Turbine UI Files:&lt;br&gt;https://www.lotrointerface.com/downloads/info1012TurbineClassesandExamples.html&lt;br&gt;&lt;br&gt;changelog&lt;br&gt;1.8  update for scaling changes introduced in U49.6&lt;br&gt;1.7  bugfixes and improvements for...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (gutter)</author>
       <category>Other</category>
       <guid isPermaLink="false">lotrointerface-1239-1-8-1790866864</guid>
@@ -145,7 +146,7 @@
     <item>
       <title>Mouse Finder (1.07)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=924</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.07&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-03-07 17:11 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 100,407&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download924"&gt;MouseFinder_v1.07.zip&lt;/a&gt; (623.1 KB)&lt;/p&gt;&lt;p&gt;Note: I am no longer playing LOTRO or doing plugins.  Any other competent plugin author is invited to take over maintenance of this and/or any of my other plugins. Thurallor 6/13/2023&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;If you have a hard time finding your mouse cursor on the screen during combat this plugin will help by drawing a big rotating circle around it as shown in the video below.  The circle can be whatever color or size you want see configurable options...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.07&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-03-07 17:11 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 100,409&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download924"&gt;MouseFinder_v1.07.zip&lt;/a&gt; (623.1 KB)&lt;/p&gt;&lt;p&gt;Note: I am no longer playing LOTRO or doing plugins.  Any other competent plugin author is invited to take over maintenance of this and/or any of my other plugins. Thurallor 6/13/2023&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;If you have a hard time finding your mouse cursor on the screen during combat this plugin will help by drawing a big rotating circle around it as shown in the video below.  The circle can be whatever color or size you want see configurable options...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Thurallor)</author>
       <category>Other</category>
       <guid isPermaLink="false">lotrointerface-924-1-07-1772903466</guid>

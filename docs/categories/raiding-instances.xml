@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>LOTRO Plugins - Raiding &amp; Instances</title>
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Raiding &amp; Instances' category.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:51:57 GMT</lastBuildDate>
     <ttl>180</ttl>
+    <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/raiding-instances.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PrimePlugin (14.0.1)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1085</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 14.0.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Rolo&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Raiding &amp;amp; Instances&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-01 17:37 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 576,861&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1085"&gt;Plugins.zip&lt;/a&gt; (11.6 MB)&lt;/p&gt;&lt;p&gt;PrimePlugin RaidTools&lt;br&gt;&lt;br&gt;The primeplugins consisting of:&lt;br&gt;&lt;br&gt;Primeplugins&lt;br&gt;Prime Vitals&lt;br&gt;Prime Party Vitals beta&lt;br&gt;Prime Bags&lt;br&gt;Prime Parse beta&lt;br&gt;Prime Cast&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 14.0.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Rolo&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Raiding &amp;amp; Instances&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-01 17:37 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 576,865&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1085"&gt;Plugins.zip&lt;/a&gt; (11.6 MB)&lt;/p&gt;&lt;p&gt;PrimePlugin RaidTools&lt;br&gt;&lt;br&gt;The primeplugins consisting of:&lt;br&gt;&lt;br&gt;Primeplugins&lt;br&gt;Prime Vitals&lt;br&gt;Prime Party Vitals beta&lt;br&gt;Prime Bags&lt;br&gt;Prime Parse beta&lt;br&gt;Prime Cast&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Rolo)</author>
       <category>Raiding &amp; Instances</category>
       <guid isPermaLink="false">lotrointerface-1085-14-0-1-1790876255</guid>
