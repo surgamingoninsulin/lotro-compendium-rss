@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>LOTRO Plugins - Other</title>
+    <link>https://www.lotrointerface.com/downloads/index.php</link>
+    <description>LOTRO plugins in the 'Other' category.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 21:38:00 GMT</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>LUI (v2.3.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1294</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v2.3.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Geldahr&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-03 08:51 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 2,324&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1294"&gt;LUI-v2.3.1.zip&lt;/a&gt; (41.1 MB)&lt;/p&gt;&lt;p&gt;LUI short for LotRO UI is a broad plugin built around a highly customizable HUD: vitals for self target boss fellowship raid and pets buff/debuff tracking cooldowns and expiringeffect timers with precise control over layout colors fonts thresholds scaling and window placement. On top of the HUD it brings a large set of extra tools: an inventory window serverwide assets a crafting browser loot drops a status bar and an ingame Encyclopedia covering bestiary items traceries quests and...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Geldahr)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1294-v2-3-1-1791017492</guid>
+      <pubDate>Sat, 03 Oct 2026 08:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>CombatAlert (1.8)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1239</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.8&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; gutter&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-01 15:01 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 18,886&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1239"&gt;CombatAlert-1.8.zip&lt;/a&gt; (910.2 KB)&lt;/p&gt;&lt;p&gt;CombatAlert is a plugin to display a more noticeable visual alert when entering combat along with text alerts to be displayed when entering or leaving combat. Each of these alerts can be toggled on or off and customized through the plugin manager options window.&lt;br&gt;&lt;br&gt;Please note this plugin requires Turbine UI Files:&lt;br&gt;https://www.lotrointerface.com/downloads/info1012TurbineClassesandExamples.html&lt;br&gt;&lt;br&gt;changelog&lt;br&gt;1.8  update for scaling changes introduced in U49.6&lt;br&gt;1.7  bugfixes and improvements for...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (gutter)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1239-1-8-1790866864</guid>
+      <pubDate>Thu, 01 Oct 2026 15:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combat Analysis: Enhanced Edition (5.0b)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1322</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 5.0b&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Arebel&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-26 13:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 502&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1322"&gt;CombatAnalysisEnhancedEdition.zip&lt;/a&gt; (694.4 KB)&lt;/p&gt;&lt;p&gt;All credit to Evendale and everyone else who worked on the plugin.&lt;br&gt;&lt;br&gt;&lt;br&gt;Combat Analysis: Enhanced Edition&lt;br&gt;Improved encounter grouping general tab custom channels and more informative chat output.&lt;br&gt;&lt;br&gt;Improved Parse Messages&lt;br&gt;Enable the checkbox in the bottomleft corner or top left on the general tab of Combat Analysis to use the new detailed chat messages. Near to the send to chat button&lt;br&gt;&lt;br&gt;Enabled by default&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Arebel)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1322-5-0b-1790429172</guid>
+      <pubDate>Sat, 26 Sep 2026 13:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repeatables Tracker (1.6)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1275</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.6&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Celordal&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-10 16:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 3,779&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1275"&gt;1789059178-Repeatables.zip&lt;/a&gt; (663.0 KB)&lt;/p&gt;&lt;p&gt;About:&lt;br&gt;    This plugin will track endgame repeatable quests &amp;amp; activities across your toons. It automatically completes and automatically resets so you dont have to do anything but load it quest and open the window when youre wondering what another toon still has to do.&lt;br&gt;&lt;br&gt;Known bugs: &lt;br&gt; Missions in Annak Khurfu will count TWICE toward the weekly mission quest the very first time you do them. &lt;br&gt;This is due to how the game reports your completion and I havent come up with a workaround yet&lt;br&gt; Progress quests which have to be turned in when you complete them like Challenges of Mur Ghala&lt;br&gt;will...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Celordal)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1275-1-6-1789059178</guid>
+      <pubDate>Thu, 10 Sep 2026 16:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shire Quest &amp; Deed Tracker SQDT (v0.4.7.50)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1310</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v0.4.7.50&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Tanorth&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-08 14:14 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 605&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1310"&gt;SQDT_SecondBreakfast_v0.4.7.44.zip&lt;/a&gt; (1.5 MB)&lt;/p&gt;&lt;p&gt;Shire Quest &amp;amp; Deed Tracker SQDT&lt;br&gt;&lt;br&gt;English&lt;br&gt;&lt;br&gt;Shire Quest &amp;amp; Deed Tracker SQDT is a multilingual LOTRO plugin currently in active development and testing.&lt;br&gt;&lt;br&gt;SQDT tracks and manages:&lt;br&gt;&lt;br&gt; Quests and quest status&lt;br&gt; Quest chains subquests instances and session plays&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Tanorth)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1310-v0-4-7-50-1788876884</guid>
+      <pubDate>Tue, 08 Sep 2026 14:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Festival Buddy II (2.4.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1218</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.4.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-25 19:34 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 89,186&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1218"&gt;Festival Buddy II v2.4.1.zip&lt;/a&gt; (15.3 MB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;Festival Buddy II is a simple tool to help you keep track of the festivities throughout Middleearth. It is an updated version of the original Festival Buddy by Galuhad.&lt;br&gt;&lt;br&gt;It will display the number of tokens in your wallet when some effects have expired e.g. the treasure chests in the Haunted Barrow and a simple quest guide for those quests that are easily forgotten. Theres also a dance instructor to help you with the dance quests and a barter list...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (b414213562)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1218-2-4-1-1787686488</guid>
+      <pubDate>Tue, 25 Aug 2026 19:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finally Cooldown Timers (1.7)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1299</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.7&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; awakemon&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-22 08:29 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,435&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1299"&gt;Finally_Cooldown_Timers_1.7.zip&lt;/a&gt; (15.9 KB)&lt;/p&gt;&lt;p&gt;Finally Cooldown Timers tries to implement what Ive been missing desperately: An overview of all the used skills with cooldowns in seconds and this without needing to add everything I want to track.&lt;br&gt;&lt;br&gt;Most people probably know Skill Timer which is another awesome Plugin but its a lot more sophisticated and thus requires a lot of setup for each character.&lt;br&gt;&lt;br&gt;FCT bypasses the problem of the API being unable to read the action bars by listening for cooldown...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (awakemon)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1299-1-7-1787387397</guid>
+      <pubDate>Sat, 22 Aug 2026 08:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Broke Legs (1.0.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1308</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Nolemir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-13 18:12 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 249&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1308"&gt;BrokeLegsV1.0.2.zip&lt;/a&gt; (2.1 KB)&lt;/p&gt;&lt;p&gt;Broke Legs is a statistic Tracker for &amp;quot;Falling Injuries&amp;quot; and Deaths by misadventure&lt;br&gt;&lt;br&gt;How it works: Whenever you Gain the falling injuries debuff or die from misadventure it logs it then to see the statistics you enter /stats into chat&lt;br&gt;&lt;br&gt;Note: Due to limitations. This Plugin cant access Historical Character DataLifetime Character data So as long as this Plugin is enabled it logs the stats. As of Right Now the Data is stored Per character. &lt;br&gt;&lt;br&gt;Installation: The standard way for plugins unzip the zip file and copy the folder into Plugins folder.&lt;br&gt;&lt;br&gt;Fixes: &lt;br&gt;   Fixed a couple typos so it Displays...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Nolemir)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1308-1-0-2-1786644762</guid>
+      <pubDate>Thu, 13 Aug 2026 18:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daily Tasks reference (4.22.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=498</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 4.22.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-05 23:28 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 313,338&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download498"&gt;DailyTasks_4.22.4.zip&lt;/a&gt; (75.4 KB)&lt;/p&gt;&lt;p&gt;Daily Tasks has a database of all known Task Bulletin Boards and the Tasks that they contain. It can not only list these but can also check your inventory for trophy items and show which items can be turned in to complete tasks and if one of your alts can use it.&lt;br&gt;&lt;br&gt;You can also list which trophy items cant be used and can check on individual trophy items. You can even display which items in your inventory can be used by a player of a specified level.&lt;br&gt;&lt;br&gt;Basic commands:&lt;br&gt;/dt  Lists all trophy items in inventory and their uses&lt;br&gt;/dtu Lists all trophy items in inventory that are usable&lt;br&gt;/dtc...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-498-4-22-4-1785972537</guid>
+      <pubDate>Wed, 05 Aug 2026 23:28:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deed Tracker (3.3.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1139</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.3.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-02 23:09 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 451,400&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1139"&gt;DeedTracker v3.3.0.zip&lt;/a&gt; (4.4 MB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;Deed Tracker is designed to help you keep track of your completed deeds. Or if youre like me which deeds you havent done yet.&lt;br&gt;&lt;br&gt;Unlike the ingame Deed Log Deed Tracker will show you every deed for every tab on every page whether youve started it or not. No more wondering if an area has hidden deeds Deeds are presented in a hierarchical tree and a builtin search bar makes finding a specific deed very fast.&lt;br&gt;&lt;br&gt;Each time you complete something Deed Tracker checks to see if it was a deed. If it was it checks it off for...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (b414213562)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1139-3-3-0-1785712193</guid>
+      <pubDate>Sun, 02 Aug 2026 23:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>ArdaScore  A Class Guide Plugin (0.1.24.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1301</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.1.24.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; suerken&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-19 16:28 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 660&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1301"&gt;ArdaScore01241.zip&lt;/a&gt; (4.7 MB)&lt;/p&gt;&lt;p&gt;Deutsch&lt;br&gt;&lt;br&gt;ArdaScore ist ein bersichtliches AusrstungsVergleichsplugin fr The Lord of the Rings Online. Es erkennt automatisch die Klasse des Charakters bietet passende Presets fr verschiedene Skilllinien und bewertet ob die aktuell getragene Ausrstung insgesamt besser oder schlechter ist als die zuvor gespeicherte Ausrstung.&lt;br&gt;&lt;br&gt;ArdaScore speichert die aktuellen Charakterwerte als Vergleichsbasis. Sobald Ausrstung gewechselt wird vergleicht das Plugin die neuen Gesamtwerte mit der gespeicherten Basis und berechnet daraus eine gewichtete ArdaScoreProzentwertung. Diese...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (suerken)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1301-0-1-24-1-1784478532</guid>
+      <pubDate>Sun, 19 Jul 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reminders (3.06)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=993</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.06&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-06-09 20:36 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 180,054&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download993"&gt;Reminders_v3.06.zip&lt;/a&gt; (1.1 MB)&lt;/p&gt;&lt;p&gt;Note: I am no longer playing LOTRO or doing plugins.  Any other competent plugin author is invited to take over maintenance of this and/or any of my other plugins. Thurallor 6/13/2023&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;&lt;br&gt;This plugin helps you keep track of all those recurring tasks you need to juggle when managing several characters.  It maintains a table of reminders for &amp;quot;to do&amp;quot; items each of which has a countdown timer and an optional colorcoded category.  You can organize the reminders into tabs however you prefer such as a tab for each character or a...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Thurallor)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-993-3-06-1781037373</guid>
+      <pubDate>Tue, 09 Jun 2026 20:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Warband Reference (1.5.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=843</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.5.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-06-01 23:14 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 41,621&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download843"&gt;WarbandRef_1.5.1.zip&lt;/a&gt; (37.6 KB)&lt;/p&gt;&lt;p&gt;Warband Reference provides a handy ingame reference for warbands. It tells you where to find them and describes the mobs that make up the warband so that you can better prepare your tactics.&lt;br&gt;&lt;br&gt;Basic commands:&lt;br&gt;/wrw opens the WarbandRef window&lt;br&gt;/wr zones displays the zones with warbands&lt;br&gt;&lt;br&gt;NOTICE: When installing for the first time be sure to follow the instructions in the ReadMe file to avoid problems.&lt;br&gt;&lt;br&gt;Recent updates:&lt;br&gt;04/27/26 1.5.1	Fixed WR_Opt initialization.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-843-1-5-1-1780355661</guid>
+      <pubDate>Mon, 01 Jun 2026 23:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Travel locations reference (3.3.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=524</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.3.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-04-22 18:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 166,337&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download524"&gt;TravelRef_3.3.1.zip&lt;/a&gt; (88.8 KB)&lt;/p&gt;&lt;p&gt;This plugin provides details on all the travel locations in the game except for some boats. For each location you can list all the destinations with costs and travel restrictions. It can also find the best route between any two stable locations and factor in Milestone/Return/Guide/Muster skills even providing a clickable icon for the skill when it provides the best route.&lt;br&gt;&lt;br&gt;Basic chat commands:&lt;br&gt;/tr zones list known zones with stables&lt;br&gt;/tr &amp;lt;zone name&amp;gt; list stables in the zone&lt;br&gt;/tr &amp;lt;location name&amp;gt; list location details with destinations&lt;br&gt;/tr &amp;lt;coordinates&amp;gt; list nearest stable&lt;br&gt;/tr ? list...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-524-3-3-1-1776882817</guid>
+      <pubDate>Wed, 22 Apr 2026 18:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Camp Site reference (1.29.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=520</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.29.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-04-22 02:38 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 106,267&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download520"&gt;CampSite_1.29.1.zip&lt;/a&gt; (44.8 KB)&lt;/p&gt;&lt;p&gt;This plugin will display the camp sites in a zone that a hunter can use and where they can &amp;quot;guide to&amp;quot;. It will also display known camp site information when given the location name of a camp site as displayed for the Return to Camp action and has a list of &amp;quot;Guide to&amp;quot; skills that can be learned.&lt;br&gt;&lt;br&gt;If a camp site includes a Mustering Horn the minimum use level is given. Guardians can also use camp sites for their Summon Tinker skill.&lt;br&gt;&lt;br&gt;The following are chat window commands:&lt;br&gt;&amp;quot;/cs zones&amp;quot; displays a list of known zones with camp sites.&lt;br&gt;&amp;quot;/cs horns&amp;quot; displays a list of known camp sites with...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-520-1-29-1-1776825513</guid>
+      <pubDate>Wed, 22 Apr 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mouse Finder (1.07)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=924</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.07&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-03-07 17:11 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 100,407&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download924"&gt;MouseFinder_v1.07.zip&lt;/a&gt; (623.1 KB)&lt;/p&gt;&lt;p&gt;Note: I am no longer playing LOTRO or doing plugins.  Any other competent plugin author is invited to take over maintenance of this and/or any of my other plugins. Thurallor 6/13/2023&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;If you have a hard time finding your mouse cursor on the screen during combat this plugin will help by drawing a big rotating circle around it as shown in the video below.  The circle can be whatever color or size you want see configurable options...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Thurallor)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-924-1-07-1772903466</guid>
+      <pubDate>Sat, 07 Mar 2026 17:11:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TitanBar (v1.51)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1253</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.51&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Fanchen&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-02-11 23:34 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 82,917&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1253"&gt;TitanBar-1.51.zip&lt;/a&gt; (194.8 KB)&lt;/p&gt;&lt;p&gt;TitanBar is a plugin for LotRO that provides essential character info at a glance including wallet currencies inventory and vault content for your current character and alts.&lt;br&gt;If you have CalcStat by Giseldah installed https://www.lotrointerface.com/downloads/info1022CalcStat.html TitanBar displays additional information like capped stats and even information the game does not provide like the absolute value of your Outgoing Healing stat.&lt;br&gt;&lt;br&gt;This version is based on Duriels work https://www.lotrointerface.com/downloads/info1140TitanBar.html with significant changes to how currencies...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Fanchen)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1253-v1-51-1770852896</guid>
+      <pubDate>Wed, 11 Feb 2026 23:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOTRO Walkthrough (2.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1273</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Celordal&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-02-01 03:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 7,319&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1273"&gt;Walkthrough.zip&lt;/a&gt; (38.6 KB)&lt;/p&gt;&lt;p&gt;About:&lt;br&gt;This is a collection of walkthroughs for LOTRO ingame regions for the purpose of streamlining leveling while completing deeds in each area. Note: many quests are skipped for the sake of efficiency. This is not focused on firsttime players that are more likely to want to experience the wonderful storylines offered&lt;br&gt;&lt;br&gt; If you havent already done so for another plugin you will need to download this one as well. &lt;br&gt;&lt;br&gt;Version changes:&lt;br&gt;v2.4  Added Mur Ghala&lt;br&gt;        Icon now opens the last used...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Celordal)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1273-2-4-1769916390</guid>
+      <pubDate>Sun, 01 Feb 2026 03:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOTRO Compendium (2.7)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=526</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.7&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; lunarwtr&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-01-07 02:59 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 493,890&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download526"&gt;Compendium-2.7.zip&lt;/a&gt; (7.5 MB)&lt;/p&gt;&lt;p&gt;About:&lt;br&gt;Compendium is a Questing Deed Item and Crafting database Addon for Lord of the Rings Online LOTRO. It is meant to supplement the levelling process by making finding of quests mobs and items easier.&lt;br&gt;&lt;br&gt;&lt;br&gt;Trying to find all the deeds you can accomplish in the Shire?&lt;br&gt;Not sure what the prerequisites to a quest chain are? &lt;br&gt;Looking for direction on a quest that is elluding you? &lt;br&gt;Looking for all particular weapons and armor for your class and level?&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (lunarwtr)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-526-2-7-1767754788</guid>
+      <pubDate>Wed, 07 Jan 2026 02:59:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fishing Contest (1.0.6)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1268</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.6&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Leno&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-11-24 18:43 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,596&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1268"&gt;FishingContest v1.0.6.zip&lt;/a&gt; (52.5 KB)&lt;/p&gt;&lt;p&gt;Fishing Contest&lt;br&gt;&lt;br&gt;This plugin originated from a weekly fishing event. It scores which player has caught the most fish that are usable in crafting. Loot for the taxidermist is now counted as well as second level. Nonusable loot is counted but not used for the calculating the place.&lt;br&gt;&lt;br&gt;The entire raid is tracked via the loot chat analyzed and then displayed in an overview. A reset button is provided to start over and an update button is used to rescan the group without deleting the current values. The raid data...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Leno)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1268-1-0-6-1764009821</guid>
+      <pubDate>Mon, 24 Nov 2025 18:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Middle Earth Memoirs (0.0.5Betafix)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1267</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.0.5Betafix&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; kiergrim&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-11-10 06:01 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,934&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1267"&gt;1762754465-MEMLotro_0.0.5Beta.zip&lt;/a&gt; (1.7 MB)&lt;/p&gt;&lt;p&gt;THIS IS IN BETA SOME FEATURES ARE STILL IN DEVELOPMENT&lt;br&gt;&lt;br&gt;This plugin allows you to play user created adventures in the LOTRO Game. There is a stand alone editor for creating these adventures. The editor is downloaded separately.&lt;br&gt;&lt;br&gt;This is a very early version of this plugin and is still very much in Beta. Current limitations are&lt;br&gt;&lt;br&gt;Discord invite for support if you trying to create quests.&lt;br&gt;https://discord.gg/6ybghYBYUK&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (kiergrim)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1267-0-0-5betafix-1762754465</guid>
+      <pubDate>Mon, 10 Nov 2025 06:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subscriber Buffs Reminder (1.0.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1269</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-09-23 20:56 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 3,292&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1269"&gt;Subscriber Buffs Reminder v1.0.1.zip&lt;/a&gt; (9.5 KB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;Subscriber Buffs Reminder tells you if you do not have your Subscrber Buffs or if it will expire soon.&lt;br&gt;By default it will warn you 24 hours ahead of time. You can change this in the options.&lt;br&gt;&lt;br&gt;Language support:&lt;br&gt;&lt;br&gt; Supports English French German and Russian.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (b414213562)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1269-1-0-1-1758660990</guid>
+      <pubDate>Tue, 23 Sep 2025 20:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delving Digest (1.4.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1237</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-09-05 09:32 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 57,849&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1237"&gt;DelvingDigest ver 1.4.1.zip&lt;/a&gt; (206.0 KB)&lt;/p&gt;&lt;p&gt;This is a simple plugin that I use to remind myself of what the daily delving malices are. It also has a more detailed display for the malice info and  delving mission info. Just right click on the malice display to see the detailed windows or adjust the time zone so it can accurately detect the 3AM servertime malice/mission change.&lt;br&gt;&lt;br&gt;Installation: just unzip into the Plugins folder or use Plugin Compendium&lt;br&gt;&lt;br&gt;Usage: when first run the plugin will display a Server Schedule Offsets dialog. The &amp;quot;Server&amp;quot; will initially say &amp;quot;Default&amp;quot;. If you are playing on any of the 32 bit servers just close...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1237-1-4-1-1757064761</guid>
+      <pubDate>Fri, 05 Sep 2025 09:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>AssistantParse (1.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1230</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Exogenesis&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-05-23 09:59 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 10,240&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1230"&gt;1747994357-ExoPlugins.zip&lt;/a&gt; (104.3 KB)&lt;/p&gt;&lt;p&gt;A small plugin that tracks and displays the last 3 skills used by the player. Mostly developed as a tool to make those parse videos people love to throw on youtube easier to watch.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Exogenesis)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1230-1-3-1747994357</guid>
+      <pubDate>Fri, 23 May 2025 09:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Babble (2.1.5)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=929</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.1.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Simbo&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-04-13 14:45 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 92,404&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download929"&gt;BabbleV2.1.5.zip&lt;/a&gt; (69.3 KB)&lt;/p&gt;&lt;p&gt;Babble is a plugin originally designed to reduce the amount of emotes you receive during larger events. Later it has been developed to be able to filter words in other chat channels as well.&lt;br&gt;&lt;br&gt;It sends only &amp;quot;filtered&amp;quot; messages to your standard chat window excluding any of the more common messages. The plugin comes with a predefined list of the &amp;quot;usual suspect&amp;quot; emotes from busy social events dance clap cheer etc. which will be autoremoved and not shown in your chat window when Babble is enabled.&lt;br&gt;&lt;br&gt;You can easily add to this or even remove those emotes you want to see. You can also set up...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Simbo)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-929-2-1-5-1744555507</guid>
+      <pubDate>Sun, 13 Apr 2025 14:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weaver Venom Display (1.0.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1222</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Henna95&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-01-16 17:12 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 10,847&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1222"&gt;WeaverVenomDisplay_1.0.1.zip&lt;/a&gt; (589.5 KB)&lt;/p&gt;&lt;p&gt;Description&lt;br&gt;This plugin displays weavers venom in a custom UI element.&lt;br&gt;&lt;br&gt;&lt;br&gt;Installation&lt;br&gt;&lt;br&gt;Download the plugin zip file from LOTRO Interface.&lt;br&gt;&lt;br&gt;&lt;br&gt;Unzip the downloaded file.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Henna95)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1222-1-0-1-1737047520</guid>
+      <pubDate>Thu, 16 Jan 2025 17:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brawler Mettle Display (1.1.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1185</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Henna95&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-01-16 17:03 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 26,555&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1185"&gt;BrawlerMettleDisplay_1.1.3.zip&lt;/a&gt; (590.4 KB)&lt;/p&gt;&lt;p&gt;Description&lt;br&gt;This plugin displays brawlers mettle in a custom UI element.&lt;br&gt;&lt;br&gt;&lt;br&gt;Installation&lt;br&gt;&lt;br&gt;Download the plugin zip file from LOTRO Interface.&lt;br&gt;&lt;br&gt;&lt;br&gt;Unzip the downloaded file.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Henna95)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1185-1-1-3-1737046986</guid>
+      <pubDate>Thu, 16 Jan 2025 17:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beorning Wrath Display (1.1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1178</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Henna95&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2025-01-16 17:01 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 42,511&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1178"&gt;BeorningWrath_1.1.4.zip&lt;/a&gt; (589.3 KB)&lt;/p&gt;&lt;p&gt;Description&lt;br&gt;This plugin displays beornings wrath in its own UI element making wrath management little bit easier.&lt;br&gt;&lt;br&gt;&lt;br&gt;Installation&lt;br&gt;&lt;br&gt;Download the plugin zip file from LOTRO Interface.&lt;br&gt;&lt;br&gt;&lt;br&gt;Unzip the downloaded file.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Henna95)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1178-1-1-4-1737046916</guid>
+      <pubDate>Thu, 16 Jan 2025 17:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>LPEssentials (1.4.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1219</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Ziegmaster&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-11-07 09:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 20,798&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1219"&gt;1730970790-LPEssentials_1.4.3.zip&lt;/a&gt; (66.7 KB)&lt;/p&gt;&lt;p&gt;Due to my plans to develop a completely new version of this plugin I have created a Discord community server to collect feedback on the latest version.&lt;br&gt;Join here: https://discord.gg/UZC3FRH7mp&lt;br&gt;&lt;br&gt;This plugin is designed for LOTRO points farm.&lt;br&gt;&lt;br&gt;It tracks slayer deed progress for all party members. Max party size  6 Full fellowship.&lt;br&gt;You can use it in Bree Shire Ered Luin and Wraith of WaterFornost.&lt;br&gt;Beornings race slayer deeds are also...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Ziegmaster)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1219-1-4-3-1730970790</guid>
+      <pubDate>Thu, 07 Nov 2024 09:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chat Notif (1.7.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1208</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.7.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Lylian&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-03-07 10:59 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 18,357&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1208"&gt;Esy-ChatNotif-1.7.0.zip&lt;/a&gt; (39.1 KB)&lt;/p&gt;&lt;p&gt;Chat Notif&lt;br&gt;&lt;br&gt;A simple LOTRO plugin to display chat messages larger on your screen.&lt;br&gt;&lt;br&gt;The source code is available here: https://github.com/EsyArda/ChatNotif/.&lt;br&gt;&lt;br&gt;NEW: Complete French translation There is now a highlight feature to help you see new messages&lt;br&gt;&lt;br&gt;Installation guide&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Lylian)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1208-1-7-0-1709809187</guid>
+      <pubDate>Thu, 07 Mar 2024 10:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Item Treasury (36.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=870</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 36.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galuhad&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2023-06-01 15:21 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 150,519&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download870"&gt;ItemTreasury_36.0.zip&lt;/a&gt; (2.3 MB)&lt;/p&gt;&lt;p&gt;Item Treasury is a straightforward tool for browsing game items using a builtin database.&lt;br&gt;You can search by name description and/or category.&lt;br&gt;&lt;br&gt;Game Version: Update 36.0&lt;br&gt;Items: 132303&lt;br&gt;&lt;br&gt;Search by name uses partial matching to each word entered. For example &amp;quot;leg min&amp;quot; returns all items whose name contains both leg and min  so things like Elegant Leaf of Determination Leggings of Determination Minor Legacy...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galuhad)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-870-36-0-1685632919</guid>
+      <pubDate>Thu, 01 Jun 2023 15:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>GenOut (1.05)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1190</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.05&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Egarthur&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2023-03-28 22:46 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 35,560&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1190"&gt;GenOut.1.05.zip&lt;/a&gt; (7.3 MB)&lt;/p&gt;&lt;p&gt;Overview&lt;br&gt;GenOut is short for Generic Outputter. Its a fork of Garans &amp;quot;Alerter&amp;quot; plugin version 1.08 but with several new important features and a shift in emphasis to the output &amp;quot;Response&amp;quot; side. The plugin inherits from Alerter a means to output text and/or graphic material in a highlycustomizable way  size position aspect ratio duration flashing text color/font scrolling etc.  as well as Alerters ability to put a &amp;quot;quickslot&amp;quot; in the output making it interactable to execute skills use items etc....&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Egarthur)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1190-1-05-1680043618</guid>
+      <pubDate>Tue, 28 Mar 2023 22:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wallet (1.12)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=612</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.12&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2023-03-12 21:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 188,662&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download612"&gt;Wallet ver 1.12.zip&lt;/a&gt; (50.4 KB)&lt;/p&gt;&lt;p&gt;For those that want a floating currency display.&lt;br&gt; &lt;br&gt;Wallet has been updated to reflect the new Turbine Barter Wallet functionality. You can now view any of the currencies from the Barter Wallet plus your DP as floating displays.&lt;br&gt; &lt;br&gt;Use the &amp;quot;Ctrl&amp;quot; UI function to display a tab for moving each group of currency displays only the top currency in a group will show the movement tag. To change which currencies are displayed the display order or dock/undock currencies use the &amp;quot;/wallet setup&amp;quot; chat command to display the Setup dialog. The dialog is pretty self explanatory the &amp;quot;Show&amp;quot; option will...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-612-1-12-1678655610</guid>
+      <pubDate>Sun, 12 Mar 2023 21:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Friend Alert (v1.12)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=901</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.12&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-11-21 19:37 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 71,008&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download901"&gt;FriendAlert_v1.12.zip&lt;/a&gt; (584.4 KB)&lt;/p&gt;&lt;p&gt;Note: I am no longer playing LOTRO or doing plugins.  Any other competent plugin author is invited to take over maintenance of this and/or any of my other plugins. Thurallor 6/13/2023&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;This simple plugin displays a large message in the middle of your screen each time a friend logs in or out.&lt;br&gt;&lt;br&gt;You can specify a list of &amp;quot;special friends&amp;quot;; when these friends login or logout the message will be shown in an alternate color.&lt;br&gt;&lt;br&gt;You can optionally display a message when your nonfriend kinmates log in or out in a color of your...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Thurallor)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-901-v1-12-1669059420</guid>
+      <pubDate>Mon, 21 Nov 2022 19:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Class Trait Points Checklist OBSOLETE (1.26)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1037</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.26&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-08-29 21:04 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 150,988&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1037"&gt;ClassTraitPointsChecklist_v1.26.zip&lt;/a&gt; (56.6 KB)&lt;/p&gt;&lt;p&gt;This plugin became obsolete on 15Nov2022 with the release of Update 34.  Class Trait Points are now earned only by leveling up your character.&lt;br&gt;&lt;br&gt;https://i.imgur.com/DOuuCoy.png&lt;br&gt;Ein Video auf Deutsch&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;&lt;br&gt;This plugin contains a checklist that helps you keep track of which Class Trait...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Thurallor)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1037-1-26-1661807097</guid>
+      <pubDate>Mon, 29 Aug 2022 21:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthology (1.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1002</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-07-13 05:41 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 120,597&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1002"&gt;Anthology ver 1.2.zip&lt;/a&gt; (17.6 MB)&lt;/p&gt;&lt;p&gt;Welcome to Anthology. This plugin lets players author interactive stories and then share them for others to read.&lt;br&gt;&lt;br&gt;Installation:&lt;br&gt;download the .zip file and extract into your plugins folder. If you are not familiar with lotro plugins it is highly recommended that you install and use Lunarwaters Plugin Compendium to download and extract plugins and updates for plugins:&lt;br&gt;For Windows: http://www.lotrointerface.com/downloads/fileinfo.php?id=663&lt;br&gt;For Mac/Linux: http://www.lotrointerface.com/downloads/info689LOTROPluginCompendiumMacLinux.html&lt;br&gt;&lt;br&gt;Usage: load the &amp;quot;Anthology&amp;quot; plugin either using the...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1002-1-2-1657690911</guid>
+      <pubDate>Wed, 13 Jul 2022 05:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple Event Timer (0.5)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=867</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-06-30 07:17 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 28,262&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download867"&gt;EventTimer_v0.5.zip&lt;/a&gt; (1.6 KB)&lt;/p&gt;&lt;p&gt;This is a plugin that isnt useful for very many people but some people might be curious about it.  It is the plugin used in Sapiences ongoing livestream series &amp;quot;Take the Hobbits to Isengard&amp;quot;.  You can see the past broadcasts here.&lt;br&gt;&lt;br&gt;This trivial plugin just displays the server name on the screen which you have to type in manually since we cant access that information from Lua and a timer.&lt;br&gt;&lt;br&gt;Im just uploading this here for curiositys sake.  If you actually need a timer or stopwatch to use in the game I recommend...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Thurallor)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-867-0-5-1656573458</guid>
+      <pubDate>Thu, 30 Jun 2022 07:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir III (3.3.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1111</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.3.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; loikki&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-05-25 19:10 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 82,283&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1111"&gt;DU_81.zip&lt;/a&gt; (466.0 KB)&lt;/p&gt;&lt;p&gt;Current Version: 3.2&lt;br&gt;About PALANTIR III&lt;br&gt;&lt;br&gt;Feel free to join my discord server in order to discuss about the plugin https://discord.gg/s5RVxwdGAy.&lt;br&gt;&lt;br&gt;As it seems that snoopy is not maintaining the plugin anymore I have created this one based on his work. The project is still open source but now hosted on gitlab: https://gitlab.com/loikki/palantir3. Feel free to write issues or merge requests directly on gitlab I might not see the messages in LOTROinterface.&lt;br&gt;&lt;br&gt;New features:&lt;br&gt;   Beorning support wrath replaces the power&lt;br&gt;   Potion quickslots suggestion from Ingolmo German translation by...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (loikki)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1111-3-3-2-1653505840</guid>
+      <pubDate>Wed, 25 May 2022 19:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combat Analysis (4.8.11a)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=881</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 4.8.11a&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; gjpc&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-05-24 18:20 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 703,511&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download881"&gt;1653416447-CombatAnalysis4.8.11.zip&lt;/a&gt; (620.6 KB)&lt;/p&gt;&lt;p&gt;Now on GitHub&lt;br&gt;&lt;br&gt;&lt;br&gt;Ability for Benefits to be sent to BuffBars thanks Argonui&lt;br&gt;Added Fell Wrought damage /ca cleanup function and Dromos button fix&lt;br&gt;Has a larger stat font option for those ever increasing resolution screens see the General Options Panel German by Cimmino&lt;br&gt;Hit details are now separated into Normal Critical  and Devastate with percentages and rates&lt;br&gt;Experimental French translation by MayaraSirannon ArdiEstel if you are unhappy with how this performs Please delete the fr.lua...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (gjpc)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-881-4-8-11a-1653416447</guid>
+      <pubDate>Tue, 24 May 2022 18:20:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beorningus (1.01)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1167</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.01&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; homeopatix&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-04-24 22:02 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 23,401&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1167"&gt;BeorningusV1.01.zip&lt;/a&gt; (22.5 KB)&lt;/p&gt;&lt;p&gt;DESCRIPTION Francais&lt;br&gt;&lt;br&gt;Beorningusest un petit plugin pour avoir un acces rapide a vos changement de forme&lt;br&gt;Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci&lt;br&gt;Clique droite sur licone pour ouvrir la fenetre doptions&lt;br&gt;&lt;br&gt;DESCRIPTION English&lt;br&gt;&lt;br&gt;Beorningus is a small plugin to have quick access to your shape changes&lt;br&gt;You can delete a sClassrtcut with the mouse wheel on the sClassrtcut&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (homeopatix)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1167-1-01-1650837737</guid>
+      <pubDate>Sun, 24 Apr 2022 22:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parse History (v.1.2.5)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1171</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v.1.2.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; thx190&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-04-08 14:03 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 51,141&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1171"&gt;1649426612-ParseHistory_v.1.2.5.zip&lt;/a&gt; (14.4 KB)&lt;/p&gt;&lt;p&gt;Plugin created to store the parse performed in Dummys.&lt;br&gt;&lt;br&gt;You can use Command line option for open windows:&lt;br&gt;&lt;br&gt;/Parse open dummy &amp;gt; Open Parses for Dummy&lt;br&gt;/Parse open bosses &amp;gt; Open Parses for Bosses&lt;br&gt;/Parse clean bosses &amp;gt; Clean Parses Bosses&lt;br&gt;/Parse clean dummy &amp;gt; Clean Parses Dummy&lt;br&gt;&lt;br&gt;For record Dummy parses you just need to for a Dummy and make parses the plugin will register data every time a parse 3mim ending.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (thx190)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1171-v-1-2-5-1649426612</guid>
+      <pubDate>Fri, 08 Apr 2022 14:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roll Viewer (1.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1170</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Mani&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-03-01 22:07 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 16,058&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1170"&gt;1646172471-Roll Viewer.zip&lt;/a&gt; (30.3 KB)&lt;/p&gt;&lt;p&gt;Fairly simple plugin that displays loot rolls in simplified view. Works on either roll/pass or need/greed/pass loot settings. &lt;br&gt;&lt;br&gt;After loading the plugin you can display the window by typing /rv or /rollview. I can recommend you also setting it to a hotbar by using &amp;quot;/shortcut &amp;lt;slot num&amp;gt; /rv&amp;quot; the easiest is to move the skill you have on 1 type /shortcut 1 /rv and then just move buttons around.&lt;br&gt;&lt;br&gt;For now there is only English version. Plugin should be pretty much ready for other lagnuages too so be my guest if you want to make a translation there is a little text pattern matching involved...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Mani)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1170-1-1-1646172471</guid>
+      <pubDate>Tue, 01 Mar 2022 22:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opaque Quest Tracker (1.0.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1144</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-02-01 20:42 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 34,289&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1144"&gt;OpaqueQuestTracker v1.0.3.zip&lt;/a&gt; (25.0 KB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;Opaque Quest Tracker is a movable window that you can put behind your quest tracker to make it easier to read the text.&lt;br&gt;&lt;br&gt;Click and drag to move the window.&lt;br&gt;Click and drag on an edge to resize the window.&lt;br&gt;&lt;br&gt;In the options screen you can:&lt;br&gt;&lt;br&gt;change the background opacity.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (b414213562)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1144-1-0-3-1643748141</guid>
+      <pubDate>Tue, 01 Feb 2022 20:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quick Chat Setup (1.0.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1164</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Zaqs_lotro&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-12-14 10:05 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 11,448&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1164"&gt;QuickChatSetupV1.0.1.zip&lt;/a&gt; (15.7 KB)&lt;/p&gt;&lt;p&gt;This is a mini plugin that allows you to store and reuse chat channel setups across characters.&lt;br&gt;The main benefit is to help with setup if you loose connection to the chat server and hence loose chat channels.&lt;br&gt;Data is stored per server. There are currently 12 sets of channels / passwords of which you can join 8. The number of stored channels can be easily edited in the top of the file /Zaqs/QuickChatSetup/Main.lua&lt;br&gt;&lt;br&gt;USAGE:&lt;br&gt;&lt;br&gt;Load the plugin.&lt;br&gt;Click the options panel in plugin manager.&lt;br&gt;Enter channel name and passwords into the text boxes.&lt;br&gt;Click the &amp;quot;=&amp;gt;&amp;quot; button next to...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Zaqs_lotro)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1164-1-0-1-1639476351</guid>
+      <pubDate>Tue, 14 Dec 2021 10:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LogRemind (1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1129</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-06-23 02:55 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 36,066&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1129"&gt;LogRemind ver 1.4.zip&lt;/a&gt; (26.6 KB)&lt;/p&gt;&lt;p&gt;This was developed as a response to a request on the LotRO forums see https://www.lotro.com/forums/showthread.php?685791GearSharing&amp;amp;p=8059679 for the original thread.&lt;br&gt;&lt;br&gt;This is a plugin for characters like Captains that now have to manually turn on Motivating Speech after every login or defeat and other classes like Hunters that have similar issues with Find the Path.&lt;br&gt;&lt;br&gt;A simple reminder plugin that displays a reminder when the user logs in and optionally after defeat as well as when the user starts the...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1129-1-4-1624416928</guid>
+      <pubDate>Wed, 23 Jun 2021 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SocialGuy (v2.20)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=765</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v2.20&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Radicus&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2020-07-04 12:44 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 61,874&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download765"&gt;SocialGuy.zip&lt;/a&gt; (14.1 KB)&lt;/p&gt;&lt;p&gt;Ever wanted to send an emote or a number of emotes quickly and easily rather than having to type them in one at time of select them one at a time from the emote icon in the chat window or manually create aliases and waste valiable quickslot shortcuts?&lt;br&gt;&lt;br&gt;SocialGuy displays all the emotes on big list so you can just click on the shortcut or you can select all the emotes you want to send put them in a queue and then send them with a simple button click.&lt;br&gt;&lt;br&gt;Limitations&lt;br&gt;SocialGuy can only send one emote per button click as only one alias can be permitted to a quickslot...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Radicus)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-765-v2-20-1593866659</guid>
+      <pubDate>Sat, 04 Jul 2020 12:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Store Assistant (1.1.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1071</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galuhad&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2020-06-07 12:45 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 30,894&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1071"&gt;StoreAssistant_1.1.0.zip&lt;/a&gt; (72.4 KB)&lt;/p&gt;&lt;p&gt;Get wiser with your store spending habits by learning the true cost of an item.&lt;br&gt;&lt;br&gt;The LotRO store works by players purchasing items through a middle currency which can make it hard to determine the true cost of an item and whether it offers good value for money or not. &lt;br&gt;&lt;br&gt;This plugin is very simple to use and helps calculate the realworld cost of a store/mithril item. It does this in three main currencies  EUR GBP and USD. It will tell you how many VIP months would be needed if applicable the cheapest points bundle you would need to be able to buy the item and the relative cost...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galuhad)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1071-1-1-0-1591533931</guid>
+      <pubDate>Sun, 07 Jun 2020 12:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Outgoing Healing Rating (1.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1041</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Darf&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2019-07-30 14:31 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 32,737&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1041"&gt;OutgoingHealingRating.zip&lt;/a&gt; (1.5 KB)&lt;/p&gt;&lt;p&gt;Simply type /healrating show in chat to display the window.&lt;br&gt;&lt;br&gt;Press the refresh button if you have made changes to your gear and would like to display your current rating.&lt;br&gt;&lt;br&gt;This gives you the raw &amp;quot;outgoing healing rating&amp;quot; and as far as i know this is the only way to accurately get it.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Darf)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-1041-1-0-1564497108</guid>
+      <pubDate>Tue, 30 Jul 2019 14:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lotro Chann Filter (1.3.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=992</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galphoglas&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2019-02-10 12:57 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 118,587&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download992"&gt;1549803468-Galphoglas.zip&lt;/a&gt; (76.8 KB)&lt;/p&gt;&lt;p&gt;:DThe English player have now an english user manual Go to:D&lt;br&gt;&lt;br&gt;&lt;br&gt;Premier lieux: fonctionne avec tout les clients. Interface en franais uniquement.&lt;br&gt;&lt;br&gt;&lt;br&gt;Quest ce donc?&lt;br&gt;&lt;br&gt;Au dbut jai souhait me dbarrasser des messages du GoldSeller. Pour cela il me fallait filtrer ses messages dans la canaux avant que ceuxci ny apparaisse.&lt;br&gt;Jai donc eu lide de faire ce plugin. Il regarde les messages et recopie uniquement ceux qui ne comporte pas la syntaxe lotro.pay .&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galphoglas)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-992-1-3-1-1549803468</guid>
+      <pubDate>Sun, 10 Feb 2019 12:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>StatWatch (2.0pre4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=937</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.0pre4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; MaKo&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2017-07-09 22:35 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 66,593&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download937"&gt;StatWatch.zip&lt;/a&gt; (42.9 KB)&lt;/p&gt;&lt;p&gt;StatWatch is a plugin to track compare and share stats in realtime.&lt;br&gt;&lt;br&gt;Installation: 1 Use plugin compendium or 2 Download ZIP and extract it to lotro plugins folder e.g.  C:Users..DocumentsThe Lord of the Rings OnlinePlugins&lt;br&gt;&lt;br&gt;Links: StatWatch at LoTRO forums&lt;br&gt;&lt;br&gt;Known issues:&lt;br&gt;&lt;br&gt; IMPORTANT As API does not have interface to query percentages StatWatch does not show percentage bonuses. Without going to details there is no reliable way to implement these. These bonuses include...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (MaKo)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-937-2-0pre4-1499639742</guid>
+      <pubDate>Sun, 09 Jul 2017 22:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>VirtueView (2.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=720</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Mosby&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2017-06-10 00:10 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 89,389&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download720"&gt;Palantiri-2.1.zip&lt;/a&gt; (33.8 KB)&lt;/p&gt;&lt;p&gt;This is a simple plugin to help you track the deeds youve done or want to do for your Virtues.&lt;br&gt;&lt;br&gt;Basically you can pick the virtues you want and/or the regionss youre interested in and it will show you the deeds you can do there that will award those virtues.&lt;br&gt;&lt;br&gt;Your feedback is welcome&lt;br&gt;&lt;br&gt;As of version 1.6.1 this plugin can be installed and updated using the Plugin Compendium.&lt;br&gt;&lt;br&gt;After installing it and loading it just type &amp;quot;/vv show&amp;quot; to show it.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Mosby)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-720-2-2-1497053405</guid>
+      <pubDate>Sat, 10 Jun 2017 00:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>UserChatter (1.0.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=943</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Simbo&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2017-02-06 21:59 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 19,176&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download943"&gt;UserChatterV1.0.2.zip&lt;/a&gt; (53.1 KB)&lt;/p&gt;&lt;p&gt;UserChatter is a simple plugin to assist in the use of user chat channels. It provides buttons to join leave and talk into the 8 user chat channels available in the game to save you having to remember what the command are. It also remembers previously joined channels making it much it easier to rejoin a channel you have previously left.&lt;br&gt;&lt;br&gt;Installation is done in the same way as other plugins. Once installed and loaded the following commands are available.&lt;br&gt;&lt;br&gt;/userchatter show  Shows the plugin&lt;br&gt;/userchatter hide  Hides the plugin&lt;br&gt;/userchatter toggle  Toggles the plugin&lt;br&gt;&lt;br&gt;In the French...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Simbo)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-943-1-0-2-1486418369</guid>
+      <pubDate>Mon, 06 Feb 2017 21:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>WCFilter (1.6.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=957</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.6.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; burgus34&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2016-09-27 21:37 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 54,040&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download957"&gt;WCFilter_v1.6.2.zip&lt;/a&gt; (40.0 KB)&lt;/p&gt;&lt;p&gt;Worried about the spam in the world chat?  here is your solution ...&lt;br&gt;&lt;br&gt;WCFilter short for World Chat Filter is a plugin that can make your life in game easier because it is very configurable so you can config it easy for your needs.&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;&lt;br&gt; Fully localized for english german and french languages.&lt;br&gt; Many fix filters that can be inverted that means only selected will be shown else they will be filtered The File for that filters can be easily edited with limited using of LUAwildcards. &lt;br&gt;Note: the buildin filters for...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (burgus34)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-957-1-6-2-1475012279</guid>
+      <pubDate>Tue, 27 Sep 2016 21:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pferdespielzeug (1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=953</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; glafria&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2016-06-05 13:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 22,580&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download953"&gt;Pferdespielzeug.zip&lt;/a&gt; (18.4 KB)&lt;/p&gt;&lt;p&gt;Deutsch:&lt;br&gt;Es handelt sich um die Version 1.4 des Pferdespielzeugs von Glafria.&lt;br&gt;Es wird nun auch englisch und franzsisch untersttzt.&lt;br&gt;&lt;br&gt;Franais:&lt;br&gt;Ceci est la version 1.4 du jouet de cheval de Glafria .&lt;br&gt;Il est maintenant galement en charge langlais et le franais.&lt;br&gt;&lt;br&gt;English:&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (glafria)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-953-1-4-1465133597</guid>
+      <pubDate>Sun, 05 Jun 2016 13:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PvMP (3.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=728</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Glubby&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2016-03-28 22:59 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 400,439&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download728"&gt;PvMP_Plus.zip&lt;/a&gt; (112.6 KB)&lt;/p&gt;&lt;p&gt;With this plugin you can keep track of your total amount of Infamy/Renown gained in the Ettenmoors.&lt;br&gt;&lt;br&gt;Version History&lt;br&gt;&lt;br&gt;v3.3 2016/03/28&lt;br&gt; Updated French translations Thank you Adra and Whaz&lt;br&gt;&lt;br&gt;v3.2 2015/12/11&lt;br&gt; Missed a file in the zip archive...should fix the background image issue.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Glubby)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-728-3-3-1459205991</guid>
+      <pubDate>Mon, 28 Mar 2016 22:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LoTRO Alerts (1.08)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=609</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.08&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2016-03-10 23:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 182,079&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download609"&gt;Alerter ver 1_08.zip&lt;/a&gt; (57.2 KB)&lt;/p&gt;&lt;p&gt;Ever get blownup while wandering in stealth just to realize you missed the tracking warning? Ever have some stray arrow break your stun/daze/mez on a critical NPC and not know who to rant at er I mean provide constructive criticism too?&lt;br&gt; &lt;br&gt;Well never miss an important message just because its burried in a rapidly scrolling mountain of chat. Welcome to Alerter.&lt;br&gt; &lt;br&gt;This plugin allows you to set specific phrases to watch for in specific chat channels and if any match occurs in a specified channel a message is displayed prominantly on your screen. You can control the position size text...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-609-1-08-1457653644</guid>
+      <pubDate>Thu, 10 Mar 2016 23:47:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>World Chat Filter (1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=915</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Rodney&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2015-04-27 17:56 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 17,961&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download915"&gt;WorldChatFilter1.4.zip&lt;/a&gt; (2.0 KB)&lt;/p&gt;&lt;p&gt;Tired of the World chat channel being used as a global Trade Advice and OOC channel?&lt;br&gt;&lt;br&gt;This plugin filters the World channel and only forwards skirmish and raid calls and requests to you.&lt;br&gt;&lt;br&gt;Special thx to Strovolas for this effective new way of configuring the game to fire /World chat events so that the plugin can filter them:&lt;br&gt;&lt;br&gt;1 Load the World Chat Filter Plugin.&lt;br&gt;2 Create a new tab in the chat window. &lt;br&gt;3 Turn on ONLY the World Chat for that tab. &lt;br&gt;4 Rename the new tab &amp;quot;World Chat&amp;quot;&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Rodney)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-915-1-4-1430157399</guid>
+      <pubDate>Mon, 27 Apr 2015 17:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>IRV Image Resource Viewer (2.0)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=449</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2015-02-26 20:45 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 60,499&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download449"&gt;IRV version 2.0.zip&lt;/a&gt; (1.6 MB)&lt;/p&gt;&lt;p&gt;This plugin lets users view many of the builtin image resources.&lt;br&gt; &lt;br&gt;Now that Turbine has fixed the client crash bug in SetBackground I have rewritten the image viewer eliminating the old pesky good and bad ranges. This has also allowed me to include all displayable images for the current client. Unfortunately it turns out that the library of images is too large to handle custom entries in a single .plugindata file so custom entries have been temporarily removed. The library was broken up into a group of libraries to make custom entries possible in a future version but for now the...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Garan)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-449-2-0-1424983527</guid>
+      <pubDate>Thu, 26 Feb 2015 20:45:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Response Timer (0.3)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=774</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; moebius92&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2015-02-05 02:18 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 43,852&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download774"&gt;1423102680-ResponseTimer.zip&lt;/a&gt; (55.7 KB)&lt;/p&gt;&lt;p&gt;Note: This plugin uses my event handler code  it may not play well with other plugins that use event handlers.&lt;br&gt;&lt;br&gt;Library: This plugin contains version 0.7 of SkillData.&lt;br&gt;&lt;br&gt;This plugin takes an effect and a list of skills and displays when an effect occurs its duration and which of the skills will be off cooldown before the effect ends.  It is intended to be useful for Captains Guardians and Hunters technically also Burglars but Ive found it a bit extraneous for them who have responses that open up skills.  This...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (moebius92)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-774-0-3-1423102680</guid>
+      <pubDate>Thu, 05 Feb 2015 02:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rich (1.2.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=694</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.2.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galuhad&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2014-06-20 19:15 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 44,490&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download694"&gt;Rich_1.2.1.zip&lt;/a&gt; (160.1 KB)&lt;/p&gt;&lt;p&gt;I threw this plugin together quickly so I could track the quest cooldowns for the treasure hunt event named after the /rich emote from the same event. It reads from your chat log to determine when you complete the quests and will begin counting down until the quest resets. This way you can enjoy treasure hunting but know exactly when to return to the quest bestowers.&lt;br&gt;If youre in the treasure hunt area it will also tell you how long the current round has been running for.&lt;br&gt;&lt;br&gt;To install copy the GaluhadPlugins folder to your plugins directory.&lt;br&gt;eg. C:Users..DocumentsThe Lord of the...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galuhad)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-694-1-2-1-1403291727</guid>
+      <pubDate>Fri, 20 Jun 2014 19:15:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatEdit (1.4.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=571</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galuhad&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2014-06-19 23:30 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 52,534&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download571"&gt;ChatEdit_1.4.1.zip&lt;/a&gt; (176.5 KB)&lt;/p&gt;&lt;p&gt;ChatEdit is a color formatting plugin you can use to send messages to the chat channels in different colors.&lt;br&gt;&lt;br&gt;To install copy the GaluhadPlugins folder to your plugins directory.&lt;br&gt;eg. C:Users..DocumentsThe Lord of the Rings OnlinePluginsGaluhadPlugins&lt;br&gt;&lt;br&gt;To use the plugin enter the text you wish to format into the text box. You can then highlight the text you wish to format and select a replacement color. Select the output channel from the menu and send.&lt;br&gt;Note: If you make changes to the text after youve made colour changes e.g. added a new word  the text will automatically deformat...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galuhad)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-571-1-4-1-1403220640</guid>
+      <pubDate>Thu, 19 Jun 2014 23:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tulkas (2.1.1)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=669</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.1.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Galuhad&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2014-05-25 20:45 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 65,785&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download669"&gt;Tulkas_2.1.1.zip&lt;/a&gt; (2.4 MB)&lt;/p&gt;&lt;p&gt;If you enjoy this plugin please help support its development by making a donation&lt;br&gt;&lt;br&gt;Tulkas the strongest and most warlike Champion of the Valar. &lt;br&gt;Introducing the Tulkas plugin for LotRO v.2.&lt;br&gt;&lt;br&gt;What is Tulkas?&lt;br&gt;Tulkas is a plugin to help with itemisation. Through the builtin database of over 60000 items you can search by name set name item level class type stats and quality to find the items you need. Items can then be compared...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Galuhad)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-669-2-1-1-1401050713</guid>
+      <pubDate>Sun, 25 May 2014 20:45:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>LIP  Legendary Item Planner (2.0.2 U12.2)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=567</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.0.2 U12.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Equendil&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2014-02-08 19:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 136,355&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download567"&gt;LIP2_0_2.zip&lt;/a&gt; (156.1 KB)&lt;/p&gt;&lt;p&gt;Updated for Helms Deep &lt;br&gt;&lt;br&gt;About&lt;br&gt;&lt;br&gt;LIP Legendary Item Planner is a plugin for LotRO that assists the player in planning legendary items through a familiar user interface.&lt;br&gt;&lt;br&gt;It is similar to the Legendary Item Point Spender web tool at http://lotrotools.mmorsel.com/lispender which was both the inspiration for this plugin and the source of some of its data.&lt;br&gt;&lt;br&gt;Ever wanted to know where your scrolls of empowerment are best used ? How to optimally spread your...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Equendil)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-567-2-0-2-u12-2-1391887605</guid>
+      <pubDate>Sat, 08 Feb 2014 19:26:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>XpPredict (10)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=827</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 10&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Polymnie&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Other&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2013-03-11 18:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 19,980&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download827"&gt;XpPredict_10.zip&lt;/a&gt; (4.9 KB)&lt;/p&gt;&lt;p&gt;XpPredict is a plugin that predicts the experience values for monster kills.&lt;br&gt;&lt;br&gt;This plugin places a display above your target frame.  The position can be changed in the code.  As seen in the screenshot the display will be of the form:&lt;br&gt;663  1.05  0.8 = 556 XP&lt;br&gt;1.01m 1.25p normal&lt;br&gt;&lt;br&gt;In this example the base experience for a level 80 monster is 663.  The plugin has identified the Valerider as a bonus normal &amp;quot;normal&amp;quot; that receives a 5 experience bonus.  Since the Valerider is two levels lower than the character the level multiplier is 0.8.  Therefore the predicted...&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Polymnie)</author>
+      <category>Other</category>
+      <guid isPermaLink="false">lotrointerface-827-10-1363026395</guid>
+      <pubDate>Mon, 11 Mar 2013 18:26:35 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
