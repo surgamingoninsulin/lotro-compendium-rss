@@ -5,13 +5,13 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO Patches' category.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 23:58:44 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-patches.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pets U49.5 (49.5)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1021</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 49.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; 4andreas&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-03 16:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 324,509&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1021"&gt;Pets_U49.5.zip&lt;/a&gt; (101.4 KB)&lt;/p&gt;&lt;p&gt;Change log:&lt;br&gt;20260903  U49.5  1 new pets  10 future&lt;br&gt;&lt;br&gt; Treasure Grim&lt;br&gt; Mottled Mirkwood Fawn Spring Copse Stag Mottled Mirkwood Stag Whitenecked Doe Regal Grove Doe Regal Grove Stag Mottled Mirkwood Doe Whitenecked Fawn Whitenecked Stag Regal Grove Fawn&lt;br&gt;&lt;br&gt;&lt;br&gt;github full changelog&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 49.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; 4andreas&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-03 16:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 324,608&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1021"&gt;Pets_U49.5.zip&lt;/a&gt; (101.4 KB)&lt;/p&gt;&lt;p&gt;Change log:&lt;br&gt;20260903  U49.5  1 new pets  10 future&lt;br&gt;&lt;br&gt; Treasure Grim&lt;br&gt; Mottled Mirkwood Fawn Spring Copse Stag Mottled Mirkwood Stag Whitenecked Doe Regal Grove Doe Regal Grove Stag Mottled Mirkwood Doe Whitenecked Fawn Whitenecked Stag Regal Grove Fawn&lt;br&gt;&lt;br&gt;&lt;br&gt;github full changelog&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (4andreas)</author>
       <category>LotRO Patches</category>
       <guid isPermaLink="false">lotrointerface-1021-49-5-1788453192</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>BuffMonitor with Quickslots OBSOLETE (1.1.4)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1069</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-02-11 01:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 32,481&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1069"&gt;BuffMonitor with Quickslots v1.1.4.zip&lt;/a&gt; (19.7 KB)&lt;/p&gt;&lt;p&gt;Note: This patch is now obsolete; it has been incorporated into the main plugin. You can simply install the latest version of BuffMonitor to get all of the functionality of the patch.  To be sure of a clean install you should probably delete your existing Plugins/PTweety directory first.&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;&lt;br&gt;BuffMonitor is similar to...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thurallor&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-02-11 01:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 32,486&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1069"&gt;BuffMonitor with Quickslots v1.1.4.zip&lt;/a&gt; (19.7 KB)&lt;/p&gt;&lt;p&gt;Note: This patch is now obsolete; it has been incorporated into the main plugin. You can simply install the latest version of BuffMonitor to get all of the functionality of the patch.  To be sure of a clean install you should probably delete your existing Plugins/PTweety directory first.&lt;br&gt;&lt;br&gt;Introduction&lt;br&gt;&lt;br&gt;BuffMonitor is similar to...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Thurallor)</author>
       <category>LotRO Patches</category>
       <guid isPermaLink="false">lotrointerface-1069-1-1-4-1613008060</guid>
