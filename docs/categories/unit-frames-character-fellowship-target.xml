@@ -5,13 +5,13 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Unit Frames Character Fellowship Target' category.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:48:04 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/unit-frames-character-fellowship-target.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assist Reminder (1.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1314</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; sparthir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-29 08:25 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 229&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1314"&gt;AssistReminder.zip&lt;/a&gt; (8.4 KB)&lt;/p&gt;&lt;p&gt;Assist Reminder watches your fellowship while you are the leader and pops up a reminder window if no assist target has been set.&lt;br&gt;&lt;br&gt;Coordinated fellowship play works best when everyone attacks the same foe. The assist target is how a leader tells the fellowship which enemy to focus on but it is easy to forget to set one when the fight starts. This plugin detects when leadership is yours the fellowship has 2 members and no assist target is set then reminds you so the group focuses its damage appropriately.&lt;br&gt;&lt;br&gt;&lt;br&gt;Checks the party state every 1 second.&lt;br&gt;Reminds only the leader; other...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; sparthir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-29 08:25 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 233&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1314"&gt;AssistReminder.zip&lt;/a&gt; (8.4 KB)&lt;/p&gt;&lt;p&gt;Assist Reminder watches your fellowship while you are the leader and pops up a reminder window if no assist target has been set.&lt;br&gt;&lt;br&gt;Coordinated fellowship play works best when everyone attacks the same foe. The assist target is how a leader tells the fellowship which enemy to focus on but it is easy to forget to set one when the fight starts. This plugin detects when leadership is yours the fellowship has 2 members and no assist target is set then reminds you so the group focuses its damage appropriately.&lt;br&gt;&lt;br&gt;&lt;br&gt;Checks the party state every 1 second.&lt;br&gt;Reminds only the leader; other...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (sparthir)</author>
       <category>Unit Frames Character Fellowship Target</category>
       <guid isPermaLink="false">lotrointerface-1314-1-0-1787991923</guid>
