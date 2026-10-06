@@ -5,13 +5,31 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO StandAlone Plugins' category.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:27:16 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-standalone-plugins.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Birding Log (1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1241</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-06 00:34 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 39,167&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1241"&gt;BirdingLog_1.4.zip&lt;/a&gt; (57.4 KB)&lt;/p&gt;&lt;p&gt;This plugin keeps a record of all birds seen by each character and optionally the birds seen at a particular location by any character. It also provides convenient shortcuts to equip your birding kit birdwatch and then switch back to your weapon.&lt;br&gt;&lt;br&gt;Basic chat commands:&lt;br&gt;/bl  Display birding proficiency.&lt;br&gt;/bl sight  List birding sighting records.&lt;br&gt;/bl zones  List birding zones and counts.&lt;br&gt;/bl  &amp;lt;name&amp;gt;  Set count for &amp;lt;name&amp;gt; to .&lt;br&gt;/blg  Show birding garment for selected zone.&lt;br&gt;/bll ;loc  Set the current birding zone.&lt;br&gt;/bll list  List sightings in the selected zone.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>LotRO StandAlone Plugins</category>
+      <guid isPermaLink="false">lotrointerface-1241-1-4-1791246874</guid>
+      <pubDate>Tue, 06 Oct 2026 00:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fishing Log (1.4)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1238</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.4&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-06 00:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 33,577&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1238"&gt;FishingLog_1.4.zip&lt;/a&gt; (45.3 KB)&lt;/p&gt;&lt;p&gt;This plugin keeps a record of all fish caught by each character and optionally the fish caught at a particular location by any character. It also provides convenient shortcuts to equip your fishing rod and fish and then switch back to your weapon.&lt;br&gt;&lt;br&gt;Basic chat commands:&lt;br&gt;/fl  Display fishing proficiency.&lt;br&gt;/fl &amp;lt;link&amp;gt;  Display item details.&lt;br&gt;/fl catch  List fishing catch records.&lt;br&gt;/fl cook  List fish that can be cooked.&lt;br&gt;/fl quest  List fish that are part of a quest.&lt;br&gt;/fl trophy  List fish that are trophies.&lt;br&gt;/fl track Toggle unknown fish tracking.&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (Vinny)</author>
+      <category>LotRO StandAlone Plugins</category>
+      <guid isPermaLink="false">lotrointerface-1238-1-4-1791246364</guid>
+      <pubDate>Tue, 06 Oct 2026 00:26:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Greeter (v1.1.1)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1326</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.1.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; GitForked&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-05 21:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 59&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1326"&gt;Greeter-v1.1.1.zip&lt;/a&gt; (64.2 KB)&lt;/p&gt;&lt;p&gt;Greeter&lt;br&gt;&lt;br&gt;A LOTRO Lord of The Rings Online Lua Plugin.&lt;br&gt;&lt;br&gt;&lt;br&gt;Short Description:&lt;br&gt;&lt;br&gt;Greet your kinmates.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.1.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; GitForked&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-05 21:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 67&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1326"&gt;Greeter-v1.1.1.zip&lt;/a&gt; (64.2 KB)&lt;/p&gt;&lt;p&gt;Greeter&lt;br&gt;&lt;br&gt;A LOTRO Lord of The Rings Online Lua Plugin.&lt;br&gt;&lt;br&gt;&lt;br&gt;Short Description:&lt;br&gt;&lt;br&gt;Greet your kinmates.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (GitForked)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1326-v1-1-1-1791237124</guid>
@@ -20,7 +38,7 @@
     <item>
       <title>MyDebuffs (0.0.9A)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1292</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.0.9A&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; p1stehSUXork1nq&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-29 01:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,422&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1292"&gt;MyDebuffs-0.0.9A.zip&lt;/a&gt; (157.0 KB)&lt;/p&gt;&lt;p&gt;0.0.9A Change Log.&lt;br&gt;&lt;br&gt;Fixed reloading problem in nonEnglish clients.&lt;br&gt;&lt;br&gt;IMPORTANT NOTE;&lt;br&gt;&lt;br&gt;Updating to this version causes a wipe of all settings. If you are an English client user you dont need to update to the new version. The new version is just a fix for nonEnglish client users.&lt;br&gt;&lt;br&gt;If you are going to update to the new version be sure you delete the plugindata file from;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.0.9A&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; p1stehSUXork1nq&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-29 01:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,429&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1292"&gt;MyDebuffs-0.0.9A.zip&lt;/a&gt; (157.0 KB)&lt;/p&gt;&lt;p&gt;0.0.9A Change Log.&lt;br&gt;&lt;br&gt;Fixed reloading problem in nonEnglish clients.&lt;br&gt;&lt;br&gt;IMPORTANT NOTE;&lt;br&gt;&lt;br&gt;Updating to this version causes a wipe of all settings. If you are an English client user you dont need to update to the new version. The new version is just a fix for nonEnglish client users.&lt;br&gt;&lt;br&gt;If you are going to update to the new version be sure you delete the plugindata file from;&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (p1stehSUXork1nq)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1292-0-0-9a-1790644401</guid>
@@ -29,7 +47,7 @@
     <item>
       <title>Muzzle (v1.4.038)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1212</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.4.038&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; GitForked&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-26 14:30 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 47,780&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1212"&gt;Muzzle-v1.4.0-38.zip&lt;/a&gt; (197.9 KB)&lt;/p&gt;&lt;p&gt;Muzzle&lt;br&gt;&lt;br&gt;A LOTRO Lord of The Rings Online Lua Plugin.&lt;br&gt;&lt;br&gt;&lt;br&gt;Short Description:&lt;br&gt;&lt;br&gt;Muzzle trolls spam and keywords with a customizable list.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.4.038&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; GitForked&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-26 14:30 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 47,781&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1212"&gt;Muzzle-v1.4.0-38.zip&lt;/a&gt; (197.9 KB)&lt;/p&gt;&lt;p&gt;Muzzle&lt;br&gt;&lt;br&gt;A LOTRO Lord of The Rings Online Lua Plugin.&lt;br&gt;&lt;br&gt;&lt;br&gt;Short Description:&lt;br&gt;&lt;br&gt;Muzzle trolls spam and keywords with a customizable list.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (GitForked)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1212-v1-4-038-1790433019</guid>
@@ -38,7 +56,7 @@
     <item>
       <title>Travel Window II (v4.10.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1113</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v4.10.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Hyoss&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-21 14:17 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 534,004&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1113"&gt;TravelWindowII-v4.10.0.zip&lt;/a&gt; (243.0 KB)&lt;/p&gt;&lt;p&gt;This plugin creates a single window that contains available travel skills including race class housing and reputation skills.&lt;br&gt;The plugin has five modes of operation  icon grid map view text list pulldown list and carousel. These can be switched from the menu that opens when you rightclick the plugin.&lt;br&gt;This menu also gives you access to the options window. &lt;br&gt;&lt;br&gt;The plugin is a continuation of the &amp;quot;Travel Window&amp;quot; plugin that has been worked on by multiple authors before.&lt;br&gt;Since this plugin is a 100 replacement for &amp;quot;Travel Window&amp;quot; you should not have both enabled at the same time. You...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v4.10.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Hyoss&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-21 14:17 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 534,060&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1113"&gt;TravelWindowII-v4.10.0.zip&lt;/a&gt; (243.0 KB)&lt;/p&gt;&lt;p&gt;This plugin creates a single window that contains available travel skills including race class housing and reputation skills.&lt;br&gt;The plugin has five modes of operation  icon grid map view text list pulldown list and carousel. These can be switched from the menu that opens when you rightclick the plugin.&lt;br&gt;This menu also gives you access to the options window. &lt;br&gt;&lt;br&gt;The plugin is a continuation of the &amp;quot;Travel Window&amp;quot; plugin that has been worked on by multiple authors before.&lt;br&gt;Since this plugin is a 100 replacement for &amp;quot;Travel Window&amp;quot; you should not have both enabled at the same time. You...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Hyoss)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1113-v4-10-0-1790000242</guid>
@@ -47,7 +65,7 @@
     <item>
       <title>Alias Manager (1.3.2)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1321</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Belegund&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-18 22:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 118&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1321"&gt;AliasManager_v1.3.2.zip&lt;/a&gt; (9.6 KB)&lt;/p&gt;&lt;p&gt;Alias manager that stored per character lists saved aliases. Ability to create and quickslot aliases. Has a help window also.&lt;br&gt;&lt;br&gt;Several quick updates. Now collapses correctly. A few other minor items.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Belegund&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-18 22:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 119&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1321"&gt;AliasManager_v1.3.2.zip&lt;/a&gt; (9.6 KB)&lt;/p&gt;&lt;p&gt;Alias manager that stored per character lists saved aliases. Ability to create and quickslot aliases. Has a help window also.&lt;br&gt;&lt;br&gt;Several quick updates. Now collapses correctly. A few other minor items.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Belegund)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1321-1-3-2-1789771630</guid>
@@ -56,7 +74,7 @@
     <item>
       <title>Loot Watcher (v1.1.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1291</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; whiterabbit963&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-13 19:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 906&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1291"&gt;LootWatcher_v1.1.0.zip&lt;/a&gt; (42.3 KB)&lt;/p&gt;&lt;p&gt;Counts your loot from enemies and opened boxes.&lt;br&gt;&lt;br&gt;The &lt;br&gt;Available commands:&lt;br&gt;/lw show&lt;br&gt;/lw hide&lt;br&gt;/lw toggle&lt;br&gt;&lt;br&gt;Uses a modified version of Equendils Item Link Decoding library.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v1.1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; whiterabbit963&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-13 19:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 911&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1291"&gt;LootWatcher_v1.1.0.zip&lt;/a&gt; (42.3 KB)&lt;/p&gt;&lt;p&gt;Counts your loot from enemies and opened boxes.&lt;br&gt;&lt;br&gt;The &lt;br&gt;Available commands:&lt;br&gt;/lw show&lt;br&gt;/lw hide&lt;br&gt;/lw toggle&lt;br&gt;&lt;br&gt;Uses a modified version of Equendils Item Link Decoding library.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (whiterabbit963)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1291-v1-1-0-1789329176</guid>
@@ -83,7 +101,7 @@
     <item>
       <title>ZoltanTime (1.02)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1313</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.02&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; MentalMicky&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-30 12:02 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 272&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1313"&gt;ZoltanTime1.01.zip&lt;/a&gt; (116.1 KB)&lt;/p&gt;&lt;p&gt;ZoltanTime can display your local time and server time&lt;br&gt;and ingame day/night cycle.&lt;br&gt;&lt;br&gt;Youll need to adjust the ingame cycle offset in options until it&lt;br&gt;best matches the actual ingame day/night phase.&lt;br&gt;&lt;br&gt;The ingame time display is especially useful for those quests/kill deeds etc. that can only be done at a certain time of day/night.&lt;br&gt;&lt;br&gt;&lt;br&gt;Leftclicking the minimalised icon will toggle the main Time Window on/off&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.02&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; MentalMicky&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-08-30 12:02 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 274&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1313"&gt;ZoltanTime1.01.zip&lt;/a&gt; (116.1 KB)&lt;/p&gt;&lt;p&gt;ZoltanTime can display your local time and server time&lt;br&gt;and ingame day/night cycle.&lt;br&gt;&lt;br&gt;Youll need to adjust the ingame cycle offset in options until it&lt;br&gt;best matches the actual ingame day/night phase.&lt;br&gt;&lt;br&gt;The ingame time display is especially useful for those quests/kill deeds etc. that can only be done at a certain time of day/night.&lt;br&gt;&lt;br&gt;&lt;br&gt;Leftclicking the minimalised icon will toggle the main Time Window on/off&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (MentalMicky)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1313-1-02-1788091320</guid>
@@ -108,31 +126,13 @@
       <pubDate>Fri, 31 Jul 2026 11:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>Fishing Log (1.3)</title>
-      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1238</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-12 00:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 33,550&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1238"&gt;FishingLog_1.3.zip&lt;/a&gt; (44.8 KB)&lt;/p&gt;&lt;p&gt;This plugin keeps a record of all fish caught by each character and optionally the fish caught at a particular location by any character. It also provides convenient shortcuts to equip your fishing rod and fish and then switch back to your weapon.&lt;br&gt;&lt;br&gt;Basic chat commands:&lt;br&gt;/fl  Display fishing proficiency.&lt;br&gt;/fl &amp;lt;link&amp;gt;  Display item details.&lt;br&gt;/fl catch  List fishing catch records.&lt;br&gt;/fl cook  List fish that can be cooked.&lt;br&gt;/fl quest  List fish that are part of a quest.&lt;br&gt;/fl trophy  List fish that are trophies.&lt;br&gt;/fl track Toggle unknown fish tracking.&lt;/p&gt;</description>
-      <author>noreply@lotrointerface.com (Vinny)</author>
-      <category>LotRO StandAlone Plugins</category>
-      <guid isPermaLink="false">lotrointerface-1238-1-3-1783816001</guid>
-      <pubDate>Sun, 12 Jul 2026 00:26:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Hardcore Lite (v0.9.9.3 Archet)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1289</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v0.9.9.3 Archet&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; MunchieDog&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-06-10 03:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,301&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1289"&gt;HardcoreLite v.0.9.9.3 - Archet.zip&lt;/a&gt; (180.0 KB)&lt;/p&gt;&lt;p&gt;HARDCORE LITE PLAYTEST v0.9.9.3  Archet&lt;br&gt;==================================================&lt;br&gt;Created by: MunchieDog&lt;br&gt;&lt;br&gt;A Runescape and WoWinspired Hardcore plugin for Lotro.&lt;br&gt; It lets players customize their own hardcore ruleset commit to a run share their progress with other users and track how far their character survives through Middleearth.&lt;br&gt;&lt;br&gt;This package includes:&lt;br&gt; HardcoreChallengeLitePlaytest&lt;br&gt; HCCommunityBoardLitePlaytest&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; v0.9.9.3 Archet&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; MunchieDog&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-06-10 03:52 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,302&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1289"&gt;HardcoreLite v.0.9.9.3 - Archet.zip&lt;/a&gt; (180.0 KB)&lt;/p&gt;&lt;p&gt;HARDCORE LITE PLAYTEST v0.9.9.3  Archet&lt;br&gt;==================================================&lt;br&gt;Created by: MunchieDog&lt;br&gt;&lt;br&gt;A Runescape and WoWinspired Hardcore plugin for Lotro.&lt;br&gt; It lets players customize their own hardcore ruleset commit to a run share their progress with other users and track how far their character survives through Middleearth.&lt;br&gt;&lt;br&gt;This package includes:&lt;br&gt; HardcoreChallengeLitePlaytest&lt;br&gt; HCCommunityBoardLitePlaytest&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (MunchieDog)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1289-v0-9-9-3-archet-1781063575</guid>
       <pubDate>Wed, 10 Jun 2026 03:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Birding Log (1.3)</title>
-      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1241</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Vinny&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-05-24 20:06 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 39,139&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1241"&gt;BirdingLog_1.3.zip&lt;/a&gt; (57.0 KB)&lt;/p&gt;&lt;p&gt;This plugin keeps a record of all birds seen by each character and optionally the birds seen at a particular location by any character. It also provides convenient shortcuts to equip your birding kit birdwatch and then switch back to your weapon.&lt;br&gt;&lt;br&gt;Basic chat commands:&lt;br&gt;/bl  Display birding proficiency.&lt;br&gt;/bl sight  List birding sighting records.&lt;br&gt;/bl zones  List birding zones and counts.&lt;br&gt;/bl  &amp;lt;name&amp;gt;  Set count for &amp;lt;name&amp;gt; to .&lt;br&gt;/blg  Show birding garment for selected zone.&lt;br&gt;/bll ;loc  Set the current birding zone.&lt;br&gt;/bll list  List sightings in the selected zone.&lt;/p&gt;</description>
-      <author>noreply@lotrointerface.com (Vinny)</author>
-      <category>LotRO StandAlone Plugins</category>
-      <guid isPermaLink="false">lotrointerface-1241-1-3-1779653170</guid>
-      <pubDate>Sun, 24 May 2026 20:06:10 GMT</pubDate>
     </item>
     <item>
       <title>MouseGestures Starkendil (1.1)</title>
@@ -182,7 +182,7 @@
     <item>
       <title>OneToRuleThemAll (1.25)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1127</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.25&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; homeopatix&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-02-27 10:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 97,988&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1127"&gt;OneToRuleThemAllV1.25.zip&lt;/a&gt; (7.8 MB)&lt;/p&gt;&lt;p&gt;DESCRIPTION Francais&lt;br&gt;&lt;br&gt;OneToRuleThemAll est un petit plugin pour avoir acces rapide a tous mes addons&lt;br&gt;Vous pouvez faire un clique gauche sur licone de droite pour charger un plugin&lt;br&gt;ou un clique droite pour le decharger&lt;br&gt;Charge tous les plugins au premier lancement et garde vos modification pour votre prochaine connection&lt;br&gt;&lt;br&gt;Une icon Verte = plugins charge&lt;br&gt;Une icone Grise = Plugin non charge mais present&lt;br&gt;Une icone rouge = vous navaz pas encore telecharger ce plugin&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.25&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; homeopatix&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-02-27 10:33 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 97,992&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1127"&gt;OneToRuleThemAllV1.25.zip&lt;/a&gt; (7.8 MB)&lt;/p&gt;&lt;p&gt;DESCRIPTION Francais&lt;br&gt;&lt;br&gt;OneToRuleThemAll est un petit plugin pour avoir acces rapide a tous mes addons&lt;br&gt;Vous pouvez faire un clique gauche sur licone de droite pour charger un plugin&lt;br&gt;ou un clique droite pour le decharger&lt;br&gt;Charge tous les plugins au premier lancement et garde vos modification pour votre prochaine connection&lt;br&gt;&lt;br&gt;Une icon Verte = plugins charge&lt;br&gt;Une icone Grise = Plugin non charge mais present&lt;br&gt;Une icone rouge = vous navaz pas encore telecharger ce plugin&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (homeopatix)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1127-1-25-1709030003</guid>
@@ -218,7 +218,7 @@
     <item>
       <title>WelcomeToMiddleEarth (1.3)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1202</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thardariel&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2023-01-17 14:20 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 52,208&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1202"&gt;WelcomeToMiddleEarth Version 1.3.zip&lt;/a&gt; (831.0 KB)&lt;/p&gt;&lt;p&gt;WelcomeToMiddleEarth enhances the leveling game experience.&lt;br&gt;&lt;br&gt;The following functions are unlocked after loading the plugin&lt;br&gt;&lt;br&gt; When leveling up a window with the next learnable skills appears&lt;br&gt; Milestones from The Lord of the Rings movies are displayed when reaching certain levels with movie quotes and images&lt;br&gt;&lt;br&gt;Designed for all three client languages.&lt;br&gt;&lt;br&gt;The plugin can be used for all classes from level 1 after loading the plugin there are no further necessary steps. The plugin is triggered by ascending the character level.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.3&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Thardariel&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO StandAlone Plugins&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2023-01-17 14:20 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 52,210&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1202"&gt;WelcomeToMiddleEarth Version 1.3.zip&lt;/a&gt; (831.0 KB)&lt;/p&gt;&lt;p&gt;WelcomeToMiddleEarth enhances the leveling game experience.&lt;br&gt;&lt;br&gt;The following functions are unlocked after loading the plugin&lt;br&gt;&lt;br&gt; When leveling up a window with the next learnable skills appears&lt;br&gt; Milestones from The Lord of the Rings movies are displayed when reaching certain levels with movie quotes and images&lt;br&gt;&lt;br&gt;Designed for all three client languages.&lt;br&gt;&lt;br&gt;The plugin can be used for all classes from level 1 after loading the plugin there are no further necessary steps. The plugin is triggered by ascending the character level.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Thardariel)</author>
       <category>LotRO StandAlone Plugins</category>
       <guid isPermaLink="false">lotrointerface-1202-1-3-1673965205</guid>
