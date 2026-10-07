@@ -5,7 +5,7 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'RolePlay &amp; Music' category.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:31:14 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/roleplay-music.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -38,7 +38,7 @@
     <item>
       <title>Songbook (0.93)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=380</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.93&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Chiran&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; RolePlay &amp;amp; Music&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-04-06 16:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 311,333&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download380"&gt;Songbook-0.93.zip&lt;/a&gt; (129.0 KB)&lt;/p&gt;&lt;p&gt;Overview&lt;br&gt;&lt;br&gt;Songbook is a plugin for browsing your abc song files and playing them with a click of a button. The plugin consists of two parts an ingame plugin which displays the song library and an external windows program that generates a list of your abc song files in a format that the plugin can read. The external program is realized as a HTA file VBScript so that its fairly easy to check for safety.&lt;br&gt;&lt;br&gt;Features&lt;br&gt;&lt;br&gt;&lt;br&gt; Browse all your abc files ingame&lt;br&gt; Toggle music mode&lt;br&gt; Select and play a song just by clicking with your mouse&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.93&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Chiran&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; RolePlay &amp;amp; Music&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-04-06 16:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 311,336&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download380"&gt;Songbook-0.93.zip&lt;/a&gt; (129.0 KB)&lt;/p&gt;&lt;p&gt;Overview&lt;br&gt;&lt;br&gt;Songbook is a plugin for browsing your abc song files and playing them with a click of a button. The plugin consists of two parts an ingame plugin which displays the song library and an external windows program that generates a list of your abc song files in a format that the plugin can read. The external program is realized as a HTA file VBScript so that its fairly easy to check for safety.&lt;br&gt;&lt;br&gt;Features&lt;br&gt;&lt;br&gt;&lt;br&gt; Browse all your abc files ingame&lt;br&gt; Toggle music mode&lt;br&gt; Select and play a song just by clicking with your mouse&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Chiran)</author>
       <category>RolePlay &amp; Music</category>
       <guid isPermaLink="false">lotrointerface-380-0-93-1617726396</guid>

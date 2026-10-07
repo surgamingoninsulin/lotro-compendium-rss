@@ -5,13 +5,13 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO Libraries' category.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:31:14 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-libraries.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CalcStat (2.5.5)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1022</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.5.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Giseldah&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Libraries&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-23 21:16 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 674,054&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1022"&gt;CalcStat_2_5_5.zip&lt;/a&gt; (176.0 KB)&lt;/p&gt;&lt;p&gt;This package adds stat calculation support to plugins and provides the plugin CalcStatExpressions so users can make stat queries and calculations themselves.&lt;br&gt;&lt;br&gt;Calculation examples are:&lt;br&gt;1 all what is needed for Rating to Percentage or vice versa calculations&lt;br&gt;2 item stat calculations based on item level&lt;br&gt;3 skill/effect stat calculations based on player level&lt;br&gt;4 virtue stat calculations based on rank including required xp&lt;br&gt;&lt;br&gt;I created CalcStat initially for my LotroPlan spreadsheetRIP but Ive expanded it and made it more flexible so it can be used in many other types of applications...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.5.5&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Giseldah&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Libraries&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-23 21:16 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 674,206&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1022"&gt;CalcStat_2_5_5.zip&lt;/a&gt; (176.0 KB)&lt;/p&gt;&lt;p&gt;This package adds stat calculation support to plugins and provides the plugin CalcStatExpressions so users can make stat queries and calculations themselves.&lt;br&gt;&lt;br&gt;Calculation examples are:&lt;br&gt;1 all what is needed for Rating to Percentage or vice versa calculations&lt;br&gt;2 item stat calculations based on item level&lt;br&gt;3 skill/effect stat calculations based on player level&lt;br&gt;4 virtue stat calculations based on rank including required xp&lt;br&gt;&lt;br&gt;I created CalcStat initially for my LotroPlan spreadsheetRIP but Ive expanded it and made it more flexible so it can be used in many other types of applications...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Giseldah)</author>
       <category>LotRO Libraries</category>
       <guid isPermaLink="false">lotrointerface-1022-2-5-5-1784841369</guid>
