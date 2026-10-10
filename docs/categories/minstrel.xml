@@ -5,7 +5,7 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Minstrel' category.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:48:34 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/minstrel.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -20,7 +20,7 @@
     <item>
       <title>MinstrelBuff II (2.1.2)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1201</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.1.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Minstrel&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-11-20 16:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 43,817&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1201"&gt;MinstrelBuffII v2.1.2.zip&lt;/a&gt; (271.8 KB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;This is a plugin for Minstrels. It is based on MinstrelBuff by Melida and adds numerous features including support for the 2022 Minstrel updates.&lt;br&gt;&lt;br&gt;Ballads and Anthems&lt;br&gt;&lt;br&gt;The main window shows which ballads and anthems you have active.&lt;br&gt;Lesser and Greater anthems have an overlay L or G indicating which they are. This overlay can be turned off in the options.&lt;br&gt;&lt;br&gt;Anthem...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.1.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; b414213562&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Minstrel&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2022-11-20 16:47 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 43,821&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1201"&gt;MinstrelBuffII v2.1.2.zip&lt;/a&gt; (271.8 KB)&lt;/p&gt;&lt;p&gt;Introduction&lt;br&gt;&lt;br&gt;This is a plugin for Minstrels. It is based on MinstrelBuff by Melida and adds numerous features including support for the 2022 Minstrel updates.&lt;br&gt;&lt;br&gt;Ballads and Anthems&lt;br&gt;&lt;br&gt;The main window shows which ballads and anthems you have active.&lt;br&gt;Lesser and Greater anthems have an overlay L or G indicating which they are. This overlay can be turned off in the options.&lt;br&gt;&lt;br&gt;Anthem...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (b414213562)</author>
       <category>Minstrel</category>
       <guid isPermaLink="false">lotrointerface-1201-2-1-2-1668962828</guid>
