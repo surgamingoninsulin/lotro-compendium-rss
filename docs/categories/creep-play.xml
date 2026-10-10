@@ -5,7 +5,7 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Creep Play' category.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:56:03 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/creep-play.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -29,7 +29,7 @@
     <item>
       <title>CMapins (1.01)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=693</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.01&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Creep Play&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2013-08-11 03:35 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 41,885&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download693"&gt;Cmapins_ver_1_01.zip&lt;/a&gt; (13.9 KB)&lt;/p&gt;&lt;p&gt;This is a very basic no frills window for activating your Creep maps. It can be positioned with the standard UI &amp;quot;Ctrl&amp;quot; command. It will autohide when not moused over and will also autohide for F12.&lt;br&gt; &lt;br&gt;This plugin is compatible with LoTRO Plugin Compendium which is the easiest way to install/manage it.&lt;br&gt; &lt;br&gt;To manually install download the zip and unzip it to your Plugin folder preserving the folder structure in the zip.&lt;br&gt; &lt;br&gt;To load the plugin use &amp;quot;/plugins load CMapins&amp;quot;&lt;br&gt; &lt;br&gt;When first loaded the mapin window will be in the center of your screen hover the mouse over the middle of your screen...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.01&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Garan&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Creep Play&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2013-08-11 03:35 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 41,887&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download693"&gt;Cmapins_ver_1_01.zip&lt;/a&gt; (13.9 KB)&lt;/p&gt;&lt;p&gt;This is a very basic no frills window for activating your Creep maps. It can be positioned with the standard UI &amp;quot;Ctrl&amp;quot; command. It will autohide when not moused over and will also autohide for F12.&lt;br&gt; &lt;br&gt;This plugin is compatible with LoTRO Plugin Compendium which is the easiest way to install/manage it.&lt;br&gt; &lt;br&gt;To manually install download the zip and unzip it to your Plugin folder preserving the folder structure in the zip.&lt;br&gt; &lt;br&gt;To load the plugin use &amp;quot;/plugins load CMapins&amp;quot;&lt;br&gt; &lt;br&gt;When first loaded the mapin window will be in the center of your screen hover the mouse over the middle of your screen...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Garan)</author>
       <category>Creep Play</category>
       <guid isPermaLink="false">lotrointerface-693-1-01-1376192153</guid>
