@@ -5,13 +5,13 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO Patches' category.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:22:05 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-patches.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pets U49.7 (49.7)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1021</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 49.7&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; 4andreas&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-08 06:30 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 325,241&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1021"&gt;Pets_U49.7.zip&lt;/a&gt; (101.7 KB)&lt;/p&gt;&lt;p&gt;Change log:&lt;br&gt;20261008  U49.7  2 new pets&lt;br&gt;&lt;br&gt; Midnight Raven The Hunters Hound&lt;br&gt;&lt;br&gt;github full changelog&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 49.7&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; 4andreas&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-08 06:30 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 325,276&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1021"&gt;Pets_U49.7.zip&lt;/a&gt; (101.7 KB)&lt;/p&gt;&lt;p&gt;Change log:&lt;br&gt;20261008  U49.7  2 new pets&lt;br&gt;&lt;br&gt; Midnight Raven The Hunters Hound&lt;br&gt;&lt;br&gt;github full changelog&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (4andreas)</author>
       <category>LotRO Patches</category>
       <guid isPermaLink="false">lotrointerface-1021-49-7-1791441055</guid>
@@ -20,7 +20,7 @@
     <item>
       <title>Effectwarn modified by Xantar (3.0.2)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1134</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; XantarWS&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-03-02 15:07 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 12,842&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1134"&gt;Kunter.zip&lt;/a&gt; (38.4 KB)&lt;/p&gt;&lt;p&gt;Version Standalone 3.0.2&lt;br&gt;&lt;br&gt;Voici ma 2me MAJ dEffectwarn aprs la 2.0.0 de lanne dernire le Plugin passe en version 3.0.2 aussi dispo sur le Discord et le Forum du Tiers Age&lt;br&gt;&lt;br&gt;https://tiersage.leforum.eu/t1714LepluginEffecWarn.htm&lt;br&gt;&lt;br&gt;Pour installer veuillez dcompresser le fichier Kunter.zip puis copier tout le contenu dans votre dossier Plugin &amp;gt; C:UsersUSERNAMEDocumentsThe Lord of the Rings OnlinePlugins&lt;br&gt;Ecrasez tous les fichiers / dossiers si demand&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 3.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; XantarWS&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-03-02 15:07 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 12,844&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1134"&gt;Kunter.zip&lt;/a&gt; (38.4 KB)&lt;/p&gt;&lt;p&gt;Version Standalone 3.0.2&lt;br&gt;&lt;br&gt;Voici ma 2me MAJ dEffectwarn aprs la 2.0.0 de lanne dernire le Plugin passe en version 3.0.2 aussi dispo sur le Discord et le Forum du Tiers Age&lt;br&gt;&lt;br&gt;https://tiersage.leforum.eu/t1714LepluginEffecWarn.htm&lt;br&gt;&lt;br&gt;Pour installer veuillez dcompresser le fichier Kunter.zip puis copier tout le contenu dans votre dossier Plugin &amp;gt; C:UsersUSERNAMEDocumentsThe Lord of the Rings OnlinePlugins&lt;br&gt;Ecrasez tous les fichiers / dossiers si demand&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (XantarWS)</author>
       <category>LotRO Patches</category>
       <guid isPermaLink="false">lotrointerface-1134-3-0-2-1614697656</guid>
@@ -47,7 +47,7 @@
     <item>
       <title>Palantir II (2.10beta6)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=743</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.10beta6&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Snoopy81&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2012-08-04 09:10 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 113,437&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download743"&gt;Palantirv210beta5.zip&lt;/a&gt; (453.8 KB)&lt;/p&gt;&lt;p&gt;Current Version: 2.10beta&lt;br&gt;&lt;br&gt;About PALANTIR II&lt;br&gt;&lt;br&gt;After a few mouths discovering LOTRO I found LOTROInterface and some interesting plugins. Being a French player even if English interface far better than poor French translations Rivendell means nothing to me but Fondcombe reminds me souvenirs a lot...&lt;br&gt;&lt;br&gt;So I play on French Game and many plugins dislike French or German. As I already coded some lua plugins for other games wow too PvP oriented and Runes of Magic too expensive F2P I began some translations then fixes and improvements. I...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 2.10beta6&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Snoopy81&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Patches&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2012-08-04 09:10 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 113,441&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download743"&gt;Palantirv210beta5.zip&lt;/a&gt; (453.8 KB)&lt;/p&gt;&lt;p&gt;Current Version: 2.10beta&lt;br&gt;&lt;br&gt;About PALANTIR II&lt;br&gt;&lt;br&gt;After a few mouths discovering LOTRO I found LOTROInterface and some interesting plugins. Being a French player even if English interface far better than poor French translations Rivendell means nothing to me but Fondcombe reminds me souvenirs a lot...&lt;br&gt;&lt;br&gt;So I play on French Game and many plugins dislike French or German. As I already coded some lua plugins for other games wow too PvP oriented and Runes of Magic too expensive F2P I began some translations then fixes and improvements. I...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Snoopy81)</author>
       <category>LotRO Patches</category>
       <guid isPermaLink="false">lotrointerface-743-2-10beta6-1344071419</guid>
