@@ -5,9 +5,18 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO Tools &amp; Utilities for Users' category.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:30:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:43:38 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-tools-utilities-for-users.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PlopIamConnected (1.06)</title>
+      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1136</link>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.06&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; homeopatix&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Tools &amp;amp; Utilities for Users&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-16 13:26 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 23,840&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1136"&gt;PlopIamConnectedV1.06.zip&lt;/a&gt; (24.2 KB)&lt;/p&gt;&lt;p&gt;DESCRIPTION Francais&lt;br&gt;&lt;br&gt;PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte&lt;br&gt;Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste dami&lt;br&gt;ou ajouter le nom dun ami de guilde&lt;br&gt;Cliquer simplement sur le popup pour le fermer&lt;br&gt;&lt;br&gt;DESCRIPTION English&lt;br&gt;&lt;br&gt;PlopIamConnected is a small plugin to have an enlarged view of your friends when it connects&lt;/p&gt;</description>
+      <author>noreply@lotrointerface.com (homeopatix)</author>
+      <category>LotRO Tools &amp; Utilities for Users</category>
+      <guid isPermaLink="false">lotrointerface-1136-1-06-1792157174</guid>
+      <pubDate>Fri, 16 Oct 2026 13:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>Rune Use tool (1.1)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1175</link>
@@ -38,7 +47,7 @@
     <item>
       <title>LBH Instrument Bridge (0.1.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1302</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; The Minstrel&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Tools &amp;amp; Utilities for Users&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-19 20:15 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 343&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1302"&gt;LBH-InstrumentBridge_v0.1.0.zip&lt;/a&gt; (2.3 KB)&lt;/p&gt;&lt;p&gt;LBH Instrument Bridge is a lightweight LOTRO plugin built to work with the upcoming Larthys Band Helper desktop app.&lt;br&gt;&lt;br&gt;The LBHInstrumentBridge is entirely optional for the user to install. When loaded on a character it reads the instrument currently equipped in LOTRO and saves that information to the characters local PluginData file. Larthys Band Helper checks that file in the background and uses it to recognise the characters real instrument state.&lt;br&gt;&lt;br&gt;Put simply this means Band Helper does not have to assume an instrument swap worked. If the wrong instrument is equipped the app can...&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; The Minstrel&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Tools &amp;amp; Utilities for Users&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-07-19 20:15 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 344&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1302"&gt;LBH-InstrumentBridge_v0.1.0.zip&lt;/a&gt; (2.3 KB)&lt;/p&gt;&lt;p&gt;LBH Instrument Bridge is a lightweight LOTRO plugin built to work with the upcoming Larthys Band Helper desktop app.&lt;br&gt;&lt;br&gt;The LBHInstrumentBridge is entirely optional for the user to install. When loaded on a character it reads the instrument currently equipped in LOTRO and saves that information to the characters local PluginData file. Larthys Band Helper checks that file in the background and uses it to recognise the characters real instrument state.&lt;br&gt;&lt;br&gt;Put simply this means Band Helper does not have to assume an instrument swap worked. If the wrong instrument is equipped the app can...&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (The Minstrel)</author>
       <category>LotRO Tools &amp; Utilities for Users</category>
       <guid isPermaLink="false">lotrointerface-1302-0-1-0-1784492108</guid>
@@ -79,15 +88,6 @@
       <category>LotRO Tools &amp; Utilities for Users</category>
       <guid isPermaLink="false">lotrointerface-1257-1-2-1747142043</guid>
       <pubDate>Tue, 13 May 2025 13:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlopIamConnected (1.05)</title>
-      <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1136</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.05&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; homeopatix&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Tools &amp;amp; Utilities for Users&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-02-12 17:58 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 23,840&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1136"&gt;PlopIamConnectedV1.05.zip&lt;/a&gt; (23.9 KB)&lt;/p&gt;&lt;p&gt;DESCRIPTION Francais&lt;br&gt;&lt;br&gt;PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte&lt;br&gt;Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste dami&lt;br&gt;ou ajouter le nom dun ami de guilde&lt;br&gt;Cliquer simplement sur le popup pour le fermer&lt;br&gt;&lt;br&gt;DESCRIPTION English&lt;br&gt;&lt;br&gt;PlopIamConnected is a small plugin to have an enlarged view of your friends when it connects&lt;/p&gt;</description>
-      <author>noreply@lotrointerface.com (homeopatix)</author>
-      <category>LotRO Tools &amp; Utilities for Users</category>
-      <guid isPermaLink="false">lotrointerface-1136-1-05-1707760733</guid>
-      <pubDate>Mon, 12 Feb 2024 17:58:53 GMT</pubDate>
     </item>
     <item>
       <title>BlaBlaCrane (0.1.3beta)</title>
