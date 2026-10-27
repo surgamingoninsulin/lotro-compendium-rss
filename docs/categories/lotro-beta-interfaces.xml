@@ -5,17 +5,17 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'LotRO Beta Interfaces' category.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:05:27 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/lotro-beta-interfaces.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Health &amp; Power (0.126)</title>
+      <title>Health &amp; Power (0.129)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1303</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.126&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Everard&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Beta Interfaces&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-24 04:20 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,259&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1303"&gt;HealthAndPower-0.126.zip&lt;/a&gt; (7.6 MB)&lt;/p&gt;&lt;p&gt;HEALTH &amp;amp; POWER&lt;br&gt;&lt;br&gt;Health &amp;amp; Power will help you visualize your resources in the style of an Action RolePlaying Game ARPG.&lt;br&gt;&lt;br&gt;This plugin is designed and handdrawn to try to keep a cohesive subtle and visually attractive UI experience. As a beta version it is limited to having only the essential elements and key features.&lt;br&gt;&lt;br&gt;0.126 UPDATE:&lt;br&gt;Class dial Update:&lt;br&gt;Burglar: Critical Hit Tiers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.129&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Everard&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Beta Interfaces&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-10-27 02:39 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 1,263&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1303"&gt;HealthAndPower-0.129.zip&lt;/a&gt; (7.5 MB)&lt;/p&gt;&lt;p&gt;HEALTH &amp;amp; POWER&lt;br&gt;&lt;br&gt;Health &amp;amp; Power will help you visualize your resources in the style of an Action RolePlaying Game ARPG.&lt;br&gt;&lt;br&gt;This plugin is designed and handdrawn to try to keep a cohesive subtle and visually attractive UI experience. As a beta version it is limited to having only the essential elements and key features.&lt;br&gt;&lt;br&gt;0.129 UPDATE:&lt;br&gt;Quick class update:&lt;br&gt;Beorning: Wrath added alongside the Power indicator.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Everard)</author>
       <category>LotRO Beta Interfaces</category>
-      <guid isPermaLink="false">lotrointerface-1303-0-126-1792815627</guid>
-      <pubDate>Sat, 24 Oct 2026 04:20:27 GMT</pubDate>
+      <guid isPermaLink="false">lotrointerface-1303-0-129-1793068764</guid>
+      <pubDate>Tue, 27 Oct 2026 02:39:24 GMT</pubDate>
     </item>
     <item>
       <title>GrommeyUI (1.3.0)</title>
@@ -29,7 +29,7 @@
     <item>
       <title>Cosmetic Duplicates Finder (0.8.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1316</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.8.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Gnaramir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Beta Interfaces&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-09 01:11 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 715&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1316"&gt;CosmeticDuplicatesFinder_v0.8.0-beta.zip&lt;/a&gt; (1.4 MB)&lt;/p&gt;&lt;p&gt;COSMETIC DUPLICATES FINDER&lt;br&gt;Find the cosmetic appearances you already own.&lt;br&gt;&lt;br&gt;Public Beta 0.8.0&lt;br&gt;&lt;br&gt;OVERVIEW&lt;br&gt;&lt;br&gt;Cosmetic Duplicates Finder  CDF  is a readonly LOTRO Lua plugin designed to help players find cosmetic gear that shares the same visual appearance.&lt;br&gt;&lt;br&gt;If you have years of cosmetics spread across characters Inventory Bags Vaults Shared Storage and the LOTRO Wardrobe CDF helps answer a simple question:&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.8.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Gnaramir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; LotRO Beta Interfaces&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2026-09-09 01:11 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 716&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1316"&gt;CosmeticDuplicatesFinder_v0.8.0-beta.zip&lt;/a&gt; (1.4 MB)&lt;/p&gt;&lt;p&gt;COSMETIC DUPLICATES FINDER&lt;br&gt;Find the cosmetic appearances you already own.&lt;br&gt;&lt;br&gt;Public Beta 0.8.0&lt;br&gt;&lt;br&gt;OVERVIEW&lt;br&gt;&lt;br&gt;Cosmetic Duplicates Finder  CDF  is a readonly LOTRO Lua plugin designed to help players find cosmetic gear that shares the same visual appearance.&lt;br&gt;&lt;br&gt;If you have years of cosmetics spread across characters Inventory Bags Vaults Shared Storage and the LOTRO Wardrobe CDF helps answer a simple question:&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Gnaramir)</author>
       <category>LotRO Beta Interfaces</category>
       <guid isPermaLink="false">lotrointerface-1316-0-8-0-1788916266</guid>
