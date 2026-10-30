@@ -5,7 +5,7 @@
     <link>https://www.lotrointerface.com/downloads/index.php</link>
     <description>LOTRO plugins in the 'Unit Frames Character Fellowship Target' category.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:25:36 GMT</lastBuildDate>
     <ttl>180</ttl>
     <atom:link href="https://surgamingoninsulin.github.io/lotro-compendium-rss/categories/unit-frames-character-fellowship-target.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -20,7 +20,7 @@
     <item>
       <title>Athelas (1.21)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1191</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.21&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Exogenesis&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-08-15 10:38 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 32,137&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1191"&gt;1723718288-ExoPlugins.zip&lt;/a&gt; (614.5 KB)&lt;/p&gt;&lt;p&gt;Welcome to the Athelas plugin&lt;br&gt;&lt;br&gt;https://s8.gifyu.com/images/AthelasPreview.gif&lt;br&gt;&lt;br&gt;This plugin has been designed to replace the default vitals frame with something significantly more stylised.&lt;br&gt;&lt;br&gt;This new vitals frame can be moved in the same way that the default frame is moved. For most users this is done via the following keyboard shortcut: &amp;quot;CTRL&amp;quot;.&lt;br&gt;&lt;br&gt;Key features:&lt;br&gt; Animated player vitals frame.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.21&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Exogenesis&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2024-08-15 10:38 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 32,145&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1191"&gt;1723718288-ExoPlugins.zip&lt;/a&gt; (614.5 KB)&lt;/p&gt;&lt;p&gt;Welcome to the Athelas plugin&lt;br&gt;&lt;br&gt;https://s8.gifyu.com/images/AthelasPreview.gif&lt;br&gt;&lt;br&gt;This plugin has been designed to replace the default vitals frame with something significantly more stylised.&lt;br&gt;&lt;br&gt;This new vitals frame can be moved in the same way that the default frame is moved. For most users this is done via the following keyboard shortcut: &amp;quot;CTRL&amp;quot;.&lt;br&gt;&lt;br&gt;Key features:&lt;br&gt; Animated player vitals frame.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Exogenesis)</author>
       <category>Unit Frames Character Fellowship Target</category>
       <guid isPermaLink="false">lotrointerface-1191-1-21-1723718288</guid>
@@ -56,7 +56,7 @@
     <item>
       <title>Vital Target (1.0.2)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=1078</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; souru&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-07-06 20:46 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 46,639&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1078"&gt;VitalTarget_1.0.2.zip&lt;/a&gt; (9.1 KB)&lt;/p&gt;&lt;p&gt;This is a plugin that shows you several values regarding your targets morale:&lt;br&gt;&lt;br&gt;Approximate time until the target will die&lt;br&gt;Percentage&lt;br&gt;Approximate raid DPS&lt;br&gt;Bubble strength&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;does not work with german/french client&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0.2&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; souru&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2021-07-06 20:46 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 46,641&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download1078"&gt;VitalTarget_1.0.2.zip&lt;/a&gt; (9.1 KB)&lt;/p&gt;&lt;p&gt;This is a plugin that shows you several values regarding your targets morale:&lt;br&gt;&lt;br&gt;Approximate time until the target will die&lt;br&gt;Percentage&lt;br&gt;Approximate raid DPS&lt;br&gt;Bubble strength&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;does not work with german/french client&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (souru)</author>
       <category>Unit Frames Character Fellowship Target</category>
       <guid isPermaLink="false">lotrointerface-1078-1-0-2-1625604410</guid>
@@ -65,7 +65,7 @@
     <item>
       <title>RaidManager (1.0)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=942</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; glafria&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2015-12-26 21:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 35,265&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download942"&gt;Raidmanager.zip&lt;/a&gt; (27.3 KB)&lt;/p&gt;&lt;p&gt;Hi this is my first modification of Cee GroupManager.&lt;br&gt;&lt;br&gt;This Plugin worked only with the english client.&lt;br&gt;So i added germanfrancaise language.&lt;br&gt;&lt;br&gt;I hope it works fine.&lt;br&gt;&lt;br&gt;Shortcut /rm  /raidmanager&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 1.0&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; glafria&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2015-12-26 21:13 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 35,269&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download942"&gt;Raidmanager.zip&lt;/a&gt; (27.3 KB)&lt;/p&gt;&lt;p&gt;Hi this is my first modification of Cee GroupManager.&lt;br&gt;&lt;br&gt;This Plugin worked only with the english client.&lt;br&gt;So i added germanfrancaise language.&lt;br&gt;&lt;br&gt;I hope it works fine.&lt;br&gt;&lt;br&gt;Shortcut /rm  /raidmanager&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (glafria)</author>
       <category>Unit Frames Character Fellowship Target</category>
       <guid isPermaLink="false">lotrointerface-942-1-0-1451164391</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>Scrolling Combat Text (0.3.1)</title>
       <link>https://www.lotrointerface.com/downloads/fileinfo.php?id=700</link>
-      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.3.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Mirendir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2012-03-20 22:54 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 57,667&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download700"&gt;ScrollingCombatText-0.3.1.zip&lt;/a&gt; (38.2 KB)&lt;/p&gt;&lt;p&gt;Simple Scrolling Combat Text Plugin.&lt;br&gt;It shows several combat actions in middle of screen.&lt;br&gt;&lt;br&gt;currently:&lt;br&gt; own normal and critical damage&lt;br&gt; taken damage&lt;br&gt; healing&lt;br&gt; power gain&lt;br&gt;&lt;br&gt;Use the Turbine Plugin Manager to change Options.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 0.3.1&lt;br&gt;&lt;b&gt;Author:&lt;/b&gt; Mirendir&lt;br&gt;&lt;b&gt;Category:&lt;/b&gt; Unit Frames Character Fellowship Target&lt;br&gt;&lt;b&gt;Updated:&lt;/b&gt; 2012-03-20 22:54 UTC&lt;br&gt;&lt;b&gt;Downloads:&lt;/b&gt; 57,671&lt;br&gt;&lt;b&gt;File:&lt;/b&gt; &lt;a href="https://www.lotrointerface.com/downloads/download700"&gt;ScrollingCombatText-0.3.1.zip&lt;/a&gt; (38.2 KB)&lt;/p&gt;&lt;p&gt;Simple Scrolling Combat Text Plugin.&lt;br&gt;It shows several combat actions in middle of screen.&lt;br&gt;&lt;br&gt;currently:&lt;br&gt; own normal and critical damage&lt;br&gt; taken damage&lt;br&gt; healing&lt;br&gt; power gain&lt;br&gt;&lt;br&gt;Use the Turbine Plugin Manager to change Options.&lt;/p&gt;</description>
       <author>noreply@lotrointerface.com (Mirendir)</author>
       <category>Unit Frames Character Fellowship Target</category>
       <guid isPermaLink="false">lotrointerface-700-0-3-1-1332284070</guid>
